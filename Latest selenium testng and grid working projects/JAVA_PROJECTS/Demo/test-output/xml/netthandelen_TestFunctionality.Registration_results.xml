@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test cases Excecute in Firefox"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.129">
+  <properties />
+  
+  
+            <testcase name="RegistrationPage" time="1.129" classname="netthandelen_TestFunctionality.Registration" />
+      
+</testsuite>

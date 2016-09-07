@@ -1,0 +1,20 @@
+C:\>java -jar C:\JAVA_PROJECTS\Libs\selenium-server-standalone-2.53.0.jar -role
+node -hub http://localhost:4444/grid/register
+
+
+C:\>java -jar C:\JAVA_PROJECTS\Libs\selenium-server-standalone-2.53.0.jar -role
+hub
+
+
+
+
+
+
+---------for hub
+
+
+C:\>java -jar C:\JAVA_PROJECTS\Demo\Libs\selenium-server-standalone-2.53.0.jar -role
+hub
+
+
+C:\>java -jar C:\JAVA_PROJECTS\Demo\Libs\selenium-server-standalone-2.53.0.jar -role node -hub http://localhost:4444/grid/register

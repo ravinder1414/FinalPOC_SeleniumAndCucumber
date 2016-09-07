@@ -1,0 +1,11 @@
+java -Dwebdriver.chrome.driver=C:\automation-tests\chromedriver_win32\chromedriver.exe -Dwebdriver.ie.driver=C:\automation-tests\IEDriverServer.exe -jar selenium-server-standalone-2.44.0.jar -role webdriver -hub http://localhost:4444/grid/register -port 5556 -maxSession 14 -browser browserName=chrome,maxInstances=4 -browser browserName=firefox,maxInstances=4 -browser browserName=iexplore,maxInstances=4
+
+------Node opening of all the browser(chrome,firefox,IE) for 1 instances--------------
+
+
+java -Dwebdriver.chrome.driver=C:\JAVA_PROJECTS\Demo\Libs\chromedriver.exe -Dwebdriver.ie.driver=C:\JAVA_PROJECTS\Demo\Libs\IEDriverServer.exe -jar C:\JAVA_PROJECTS\Demo\Libs\selenium-server-standalone-2.46.0.jar -role webdriver -hub http://localhost:4444/grid/register -port 5556 -browser browserName=chrome,maxInstances=1 -browser browserName=firefox,maxInstances=1 -browser browserName=iexplore,maxInstances=1
+
+
+---Node opening of all the browser(chrome,firefox,IE,Safari) for 1 instances--------------
+
+java -Dwebdriver.chrome.driver=C:\JAVA_PROJECTS\Demo\Libs\chromedriver.exe -Dwebdriver.ie.driver=C:\JAVA_PROJECTS\Demo\Libs\IEDriverServer.exe -jar C:\JAVA_PROJECTS\Demo\Libs\selenium-server-standalone-2.46.0.jar -role webdriver -hub http://localhost:4444/grid/register -port 5556 -browser browserName=chrome,maxInstances=1 -browser browserName=firefox,maxInstances=1 -browser browserName=safari,maxInstances=1 -browser browserName=iexplore,maxInstances=1

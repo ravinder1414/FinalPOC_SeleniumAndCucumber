@@ -1,0 +1,3 @@
+database release test
+
+KRS01DB10

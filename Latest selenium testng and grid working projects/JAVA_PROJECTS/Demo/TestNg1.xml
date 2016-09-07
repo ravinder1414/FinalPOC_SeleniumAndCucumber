@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Demo_Netthandelen" parallel="classes" thread-count="2">
+<parameter name="Environment" value="TEST"/>
+ <listeners>
+      <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+      <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    
+      
+  </listeners>
+    <test name="Test cases Excecute in firefox">
+        <parameter name="browserType" value="firefox"/>
+        <classes>
+            
+           <class name = "netthandelen_TestFunctionality.Grid" />
+        </classes>
+    </test>
+ 
+</suite>

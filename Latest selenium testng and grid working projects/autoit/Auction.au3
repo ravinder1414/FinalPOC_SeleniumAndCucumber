@@ -1,0 +1,5 @@
+WinWaitActive("Authentication Required")
+Send("venkata.rao")
+Send("{TAB}")
+Send("Yaswanth21")
+Send("{ENTER}")

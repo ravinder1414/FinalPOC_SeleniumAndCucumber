@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Demo_Netthandelen" parallel="classes" thread-count="3">
+<!--<suite name="Demo_Netthandelen" parallel="tests">-->
+
+<parameter name="Environment" value="TEST"/>
+ <listeners>
+      <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+      <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    
+      
+  </listeners>
+    <test name="Test cases Excecute in Firefox">
+        <parameter name="Browser" value="ie"/>
+        <classes>
+            <class name = "netthandelen_Variables.EnvironmentVariables" />
+           <class name = "netthandelen_TestFunctionality.Registration" />
+            <!--<class name = "netthandelen_TestFunctionality.Bidding_Payment" />-->
+        </classes>
+           </test>
+           
+             <test name="Test cases Execute in Chrome">
+    
+        <!--<parameter name="Browser" value="chrome"/>-->
+        <classes>
+            <class name = "netthandelen_Variables.EnvironmentVariables" />
+           <!--<class name = "netthandelen_TestFunctionality.Registration" />-->
+           <class name = "netthandelen_TestFunctionality.Bidding_Payment" />
+        </classes>
+    </test>
+    
+    <test name="Test cases Execute in IE">
+    
+      <!--<parameter name="Browser" value="firefox"/>-->
+        <classes>
+            <class name = "netthandelen_Variables.EnvironmentVariables" />
+            <!--<class name = "netthandelen_TestFunctionality.Registration" />
+            <class name = "netthandelen_TestFunctionality.Bidding_Payment" />-->
+            <!--<class name = "netthandelen_TestFunctionality.EmailReport" />-->
+            
+            
+        </classes>
+    </test>
+    
+    <test name="Test cases Excecute in Safari">
+        <!--<parameter name="Browser" value="safari"/>-->
+        <classes>
+            <class name = "netthandelen_Variables.EnvironmentVariables" />
+           <class name = "netthandelen_TestFunctionality.Registration" />
+            <class name = "netthandelen_TestFunctionality.Bidding_Payment" />
+        </classes>
+           </test>
+ 
+</suite>

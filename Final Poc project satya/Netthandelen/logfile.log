@@ -1,0 +1,2453 @@
+2016-06-01 18:31:40,543 INFO  [Log] Opening Browser 
+2016-06-01 18:32:32,013 INFO  [Log] Navigating to URL 
+2016-06-01 18:32:37,091 INFO  [Log] Closing Popup displayed on screen 
+2016-06-01 18:32:41,663 INFO  [Log] Click on Register Link to register new User 
+2016-06-01 18:32:48,533 INFO  [Log] Filling all the user details to Register 
+2016-06-01 18:32:51,709 INFO  [Log] Checking Register button status 
+2016-06-01 18:32:53,495 INFO  [Log] Click on Register button and submitting details for Registration  
+2016-06-01 18:33:11,961 INFO  [Log] Filling Verification code from Database 
+2016-06-01 18:33:15,052 INFO  [Log] Click on Verification button and move to home page 
+2016-06-01 18:33:20,223 INFO  [Log] Goto My side page and checking for Logout button 
+2016-06-01 18:33:27,058 INFO  [Log] Click on Logout button 
+2016-06-01 18:33:27,417 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-01 18:33:27,703 INFO  [Log] Filling User credential Login and Password 
+2016-06-01 18:33:32,783 INFO  [Log] Click on Login button 
+2016-06-01 18:33:37,955 INFO  [Log] Home page is appear 
+2016-06-01 18:33:38,013 INFO  [Log] Click on Bidding link 
+2016-06-01 18:34:05,884 INFO  [Log] Creating order from backend 
+2016-06-01 18:34:05,900 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-01 18:34:10,998 INFO  [Log] Handling window 
+2016-06-01 18:34:11,002 INFO  [Log] Opening Auction URL to create order 
+2016-06-01 18:34:22,905 INFO  [Log] Filling orederId and searching created order 
+2016-06-01 18:34:31,250 INFO  [Log] New fram is appeared 
+2016-06-01 18:34:31,359 INFO  [Log] Closing running Auction 
+2016-06-01 18:34:31,364 INFO  [Log] Closing popup after creating order 
+2016-06-01 18:34:35,881 INFO  [Log] Closing Iframe 
+2016-06-01 18:34:39,024 INFO  [Log] Navigating to URL to search customer details  
+2016-06-01 18:34:55,125 INFO  [Log] Order is created 
+2016-06-01 18:35:03,337 INFO  [Log] Going to My order page 
+2016-06-01 18:35:14,471 INFO  [Log] Click on Order created link 
+2016-06-01 18:35:20,873 INFO  [Log] Click on Confirm order button 
+2016-06-01 18:35:23,977 INFO  [Log] Click on Submit order button 
+2016-06-01 18:35:24,028 INFO  [Log] Picking order id for payment 
+2016-06-01 18:35:33,518 INFO  [Log] Picking order Amount 
+2016-06-01 18:35:36,566 INFO  [Log] Click on Submit oder for delivery 
+2016-06-01 18:35:36,741 INFO  [Log] Opening new tab to manual payment 
+2016-06-01 18:35:41,856 INFO  [Log] Navigate to payment URL 
+2016-06-01 18:35:48,015 INFO  [Log] Filling orderId 
+2016-06-01 18:35:48,065 INFO  [Log] Filling Account number to payment 
+2016-06-01 18:35:50,320 INFO  [Log] Click on submit button 
+2016-06-02 10:56:17,449 INFO  [Log] Opening Browser 
+2016-06-02 10:56:48,558 INFO  [Log] Navigating to URL 
+2016-06-02 10:56:53,656 INFO  [Log] Closing Popup displayed on screen 
+2016-06-02 10:56:55,309 INFO  [Log] Opening Browser 
+2016-06-02 10:57:30,299 INFO  [Log] Navigating to URL 
+2016-06-02 10:57:35,393 INFO  [Log] Closing Popup displayed on screen 
+2016-06-02 10:57:36,100 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-02 10:57:36,332 INFO  [Log] Filling User credential Login and Password 
+2016-06-02 10:57:41,436 INFO  [Log] Click on Login button 
+2016-06-02 10:57:46,623 INFO  [Log] Home page is appear 
+2016-06-02 10:57:46,676 INFO  [Log] Click on Bidding link 
+2016-06-02 10:58:11,297 INFO  [Log] Creating order from backend 
+2016-06-02 10:58:11,313 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-02 10:58:16,427 INFO  [Log] Handling window 
+2016-06-02 10:58:16,434 INFO  [Log] Opening Auction URL to create order 
+2016-06-02 10:58:27,782 INFO  [Log] Filling orederId and searching created order 
+2016-06-02 10:58:35,571 INFO  [Log] New fram is appeared 
+2016-06-02 10:58:35,697 INFO  [Log] Closing running Auction 
+2016-06-02 10:58:35,703 INFO  [Log] Closing popup after creating order 
+2016-06-02 10:58:40,783 INFO  [Log] Closing Iframe 
+2016-06-02 10:58:43,911 INFO  [Log] Navigating to URL to search customer details  
+2016-06-02 10:58:58,844 INFO  [Log] Order is created 
+2016-06-02 10:59:09,939 INFO  [Log] Going to My order page 
+2016-06-02 10:59:18,698 INFO  [Log] Click on Order created link 
+2016-06-02 10:59:21,831 INFO  [Log] Click on Confirm order button 
+2016-06-02 10:59:32,170 INFO  [Log] Opening new tab to manual payment 
+2016-06-02 10:59:37,294 INFO  [Log] Navigate to payment URL 
+2016-06-02 10:59:45,737 INFO  [Log] Closing the browser 
+2016-06-02 11:05:06,300 INFO  [Log] Opening Browser 
+2016-06-02 11:05:43,222 INFO  [Log] Navigating to URL 
+2016-06-02 11:05:48,274 INFO  [Log] Closing Popup displayed on screen 
+2016-06-02 11:05:48,762 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-02 11:05:48,973 INFO  [Log] Filling User credential Login and Password 
+2016-06-02 11:05:54,061 INFO  [Log] Click on Login button 
+2016-06-02 11:05:59,263 INFO  [Log] Home page is appear 
+2016-06-02 11:05:59,339 INFO  [Log] Click on Bidding link 
+2016-06-02 11:06:23,598 INFO  [Log] Creating order from backend 
+2016-06-02 11:06:23,614 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-02 11:06:28,713 INFO  [Log] Handling window 
+2016-06-02 11:06:28,713 INFO  [Log] Opening Auction URL to create order 
+2016-06-02 11:06:37,963 INFO  [Log] Filling orederId and searching created order 
+2016-06-02 11:06:45,359 INFO  [Log] New fram is appeared 
+2016-06-02 11:06:45,445 INFO  [Log] Closing running Auction 
+2016-06-02 11:06:45,450 INFO  [Log] Closing popup after creating order 
+2016-06-02 11:06:49,892 INFO  [Log] Closing Iframe 
+2016-06-02 11:06:53,046 INFO  [Log] Navigating to URL to search customer details  
+2016-06-02 11:07:08,149 INFO  [Log] Order is created 
+2016-06-02 11:07:12,587 INFO  [Log] Opening new tab to manual payment 
+2016-06-02 11:08:09,347 INFO  [Log] Opening Browser 
+2016-06-02 11:08:48,221 INFO  [Log] Navigating to URL 
+2016-06-02 11:08:53,342 INFO  [Log] Closing Popup displayed on screen 
+2016-06-02 11:08:53,818 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-02 11:08:54,032 INFO  [Log] Filling User credential Login and Password 
+2016-06-02 11:08:59,119 INFO  [Log] Click on Login button 
+2016-06-02 11:09:04,324 INFO  [Log] Home page is appear 
+2016-06-02 11:09:04,385 INFO  [Log] Click on Bidding link 
+2016-06-02 11:09:28,532 INFO  [Log] Creating order from backend 
+2016-06-02 11:09:28,560 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-02 11:09:33,645 INFO  [Log] Handling window 
+2016-06-02 11:09:33,649 INFO  [Log] Opening Auction URL to create order 
+2016-06-02 11:09:44,685 INFO  [Log] Filling orederId and searching created order 
+2016-06-02 11:09:52,084 INFO  [Log] New fram is appeared 
+2016-06-02 11:09:52,171 INFO  [Log] Closing running Auction 
+2016-06-02 11:09:52,176 INFO  [Log] Closing popup after creating order 
+2016-06-02 11:09:56,654 INFO  [Log] Closing Iframe 
+2016-06-02 11:09:59,777 INFO  [Log] Navigating to URL to search customer details  
+2016-06-02 11:10:13,896 INFO  [Log] Order is created 
+2016-06-02 11:10:22,110 INFO  [Log] Going to My order page 
+2016-06-02 11:10:30,105 INFO  [Log] Click on Order created link 
+2016-06-02 11:10:36,734 INFO  [Log] Click on Confirm order button 
+2016-06-02 11:10:39,810 INFO  [Log] Click on Submit order button 
+2016-06-02 11:10:39,868 INFO  [Log] Picking order id for payment 
+2016-06-02 11:10:48,374 INFO  [Log] Picking order Amount 
+2016-06-02 11:10:51,426 INFO  [Log] Click on Submit oder for delivery 
+2016-06-02 11:10:51,590 INFO  [Log] Opening new tab to manual payment 
+2016-06-02 11:10:56,686 INFO  [Log] Navigate to payment URL 
+2016-06-02 11:11:02,387 INFO  [Log] Filling orderId 
+2016-06-02 11:11:02,438 INFO  [Log] Filling Account number to payment 
+2016-06-02 11:11:03,379 INFO  [Log] Click on submit button 
+2016-06-02 11:17:01,975 INFO  [Log] Opening Browser 
+2016-06-02 11:17:35,650 INFO  [Log] Navigating to URL 
+2016-06-02 11:17:40,751 INFO  [Log] Closing Popup displayed on screen 
+2016-06-02 11:17:41,020 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-02 11:17:41,245 INFO  [Log] Filling User credential Login and Password 
+2016-06-02 11:17:46,368 INFO  [Log] Click on Login button 
+2016-06-02 11:17:51,532 INFO  [Log] Home page is appear 
+2016-06-02 11:17:51,589 INFO  [Log] Click on Bidding link 
+2016-06-02 11:18:11,818 INFO  [Log] Creating order from backend 
+2016-06-02 11:18:11,841 INFO  [Log] Opening new tab to manual payment 
+2016-06-02 11:22:03,503 INFO  [Log] Opening Browser 
+2016-06-02 11:22:43,674 INFO  [Log] Navigating to URL 
+2016-06-02 11:22:48,775 INFO  [Log] Closing Popup displayed on screen 
+2016-06-02 11:22:49,091 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-02 11:22:49,307 INFO  [Log] Filling User credential Login and Password 
+2016-06-02 11:22:54,431 INFO  [Log] Click on Login button 
+2016-06-02 11:22:59,591 INFO  [Log] Home page is appear 
+2016-06-02 11:22:59,648 INFO  [Log] Click on Bidding link 
+2016-06-02 11:23:26,089 INFO  [Log] Creating order from backend 
+2016-06-02 11:23:26,118 INFO  [Log] Opening new tab to manual payment 
+2016-06-02 11:26:46,749 INFO  [Log] Opening Browser 
+2016-06-02 11:27:20,663 INFO  [Log] Navigating to URL 
+2016-06-02 11:27:25,738 INFO  [Log] Closing Popup displayed on screen 
+2016-06-02 11:27:26,058 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-02 11:27:26,271 INFO  [Log] Filling User credential Login and Password 
+2016-06-02 11:27:31,375 INFO  [Log] Click on Login button 
+2016-06-02 11:27:36,540 INFO  [Log] Home page is appear 
+2016-06-02 11:27:36,615 INFO  [Log] Click on Bidding link 
+2016-06-02 11:28:00,411 INFO  [Log] Creating order from backend 
+2016-06-02 11:28:00,435 INFO  [Log] Opening new tab to manual payment 
+2016-06-02 11:47:23,345 INFO  [Log] Opening Browser 
+2016-06-02 11:47:58,215 INFO  [Log] Navigating to URL 
+2016-06-02 11:48:03,291 INFO  [Log] Closing Popup displayed on screen 
+2016-06-02 11:48:03,803 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-02 11:48:04,015 INFO  [Log] Filling User credential Login and Password 
+2016-06-02 11:48:09,152 INFO  [Log] Click on Login button 
+2016-06-02 11:48:14,328 INFO  [Log] Home page is appear 
+2016-06-02 11:48:14,421 INFO  [Log] Click on Bidding link 
+2016-06-02 11:48:38,349 INFO  [Log] Creating order from backend 
+2016-06-02 11:48:38,366 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-02 11:48:43,466 INFO  [Log] Handling window 
+2016-06-02 11:48:43,472 INFO  [Log] Opening Auction URL to create order 
+2016-06-02 11:48:53,230 INFO  [Log] Filling orederId and searching created order 
+2016-06-02 11:49:52,989 INFO  [Log] Opening Browser 
+2016-06-02 11:50:26,337 INFO  [Log] Navigating to URL 
+2016-06-02 11:50:31,446 INFO  [Log] Closing Popup displayed on screen 
+2016-06-02 11:50:31,973 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-02 11:50:32,185 INFO  [Log] Filling User credential Login and Password 
+2016-06-02 11:50:37,272 INFO  [Log] Click on Login button 
+2016-06-02 11:50:42,452 INFO  [Log] Home page is appear 
+2016-06-02 11:50:42,496 INFO  [Log] Click on Bidding link 
+2016-06-02 11:51:07,505 INFO  [Log] Creating order from backend 
+2016-06-02 11:51:07,522 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-02 11:51:12,638 INFO  [Log] Handling window 
+2016-06-02 11:51:12,642 INFO  [Log] Opening Auction URL to create order 
+2016-06-02 11:51:22,098 INFO  [Log] Filling orederId and searching created order 
+2016-06-02 11:51:29,690 INFO  [Log] New fram is appeared 
+2016-06-02 11:51:29,793 INFO  [Log] Closing running Auction 
+2016-06-02 11:51:29,800 INFO  [Log] Closing popup after creating order 
+2016-06-02 11:51:34,954 INFO  [Log] Closing Iframe 
+2016-06-02 11:51:38,075 INFO  [Log] Navigating to URL to search customer details  
+2016-06-02 11:51:52,340 INFO  [Log] Order is created 
+2016-06-02 11:51:59,983 INFO  [Log] Going to My order page 
+2016-06-02 11:52:14,319 INFO  [Log] Opening new tab to manual payment 
+2016-06-02 11:52:19,454 INFO  [Log] Navigate to payment URL 
+2016-06-02 11:55:04,791 INFO  [Log] Opening Browser 
+2016-06-02 11:55:42,154 INFO  [Log] Navigating to URL 
+2016-06-02 11:55:47,256 INFO  [Log] Closing Popup displayed on screen 
+2016-06-02 11:55:47,686 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-02 11:55:47,904 INFO  [Log] Filling User credential Login and Password 
+2016-06-02 11:55:53,011 INFO  [Log] Click on Login button 
+2016-06-02 11:55:58,204 INFO  [Log] Home page is appear 
+2016-06-02 11:55:58,221 INFO  [Log] Click on Bidding link 
+2016-06-02 11:57:29,296 INFO  [Log] Opening Browser 
+2016-06-02 11:57:31,345 INFO  [Log] Navigating to URL 
+2016-06-02 11:58:04,741 INFO  [Log] Opening Browser 
+2016-06-02 11:58:37,652 INFO  [Log] Navigating to URL 
+2016-06-02 11:58:42,714 INFO  [Log] Closing Popup displayed on screen 
+2016-06-02 11:58:45,623 INFO  [Log] Click on Register Link to register new User 
+2016-06-02 11:58:52,096 INFO  [Log] Filling all the user details to Register 
+2016-06-02 11:58:55,264 INFO  [Log] Checking Register button status 
+2016-06-02 11:58:56,795 INFO  [Log] Click on Register button and submitting details for Registration  
+2016-06-02 11:59:13,997 INFO  [Log] Filling Verification code from Database 
+2016-06-02 11:59:17,073 INFO  [Log] Click on Verification button and move to home page 
+2016-06-02 11:59:22,247 INFO  [Log] Goto My side page and checking for Logout button 
+2016-06-02 11:59:26,815 INFO  [Log] Click on Logout button 
+2016-06-02 11:59:27,122 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-02 11:59:27,409 INFO  [Log] Filling User credential Login and Password 
+2016-06-02 11:59:32,498 INFO  [Log] Click on Login button 
+2016-06-02 11:59:37,655 INFO  [Log] Home page is appear 
+2016-06-02 11:59:37,708 INFO  [Log] Click on Bidding link 
+2016-06-02 12:00:01,603 INFO  [Log] Creating order from backend 
+2016-06-02 12:00:01,618 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-02 12:00:06,718 INFO  [Log] Handling window 
+2016-06-02 12:00:06,724 INFO  [Log] Opening Auction URL to create order 
+2016-06-02 12:00:17,008 INFO  [Log] Filling orederId and searching created order 
+2016-06-02 12:00:24,585 INFO  [Log] New fram is appeared 
+2016-06-02 12:00:24,674 INFO  [Log] Closing running Auction 
+2016-06-02 12:00:24,681 INFO  [Log] Closing popup after creating order 
+2016-06-02 12:00:29,227 INFO  [Log] Closing Iframe 
+2016-06-02 12:00:32,353 INFO  [Log] Navigating to URL to search customer details  
+2016-06-02 12:00:46,700 INFO  [Log] Order is created 
+2016-06-02 12:00:54,594 INFO  [Log] Going to My order page 
+2016-06-02 12:01:18,847 INFO  [Log] Opening new tab to manual payment 
+2016-06-02 12:01:23,974 INFO  [Log] Navigate to payment URL 
+2016-06-02 13:06:29,270 INFO  [Log] Opening Browser 
+2016-06-02 13:07:02,548 INFO  [Log] Navigating to URL 
+2016-06-02 13:07:07,635 INFO  [Log] Closing Popup displayed on screen 
+2016-06-02 13:07:08,087 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-02 13:07:08,287 INFO  [Log] Filling User credential Login and Password 
+2016-06-02 13:07:13,385 INFO  [Log] Click on Login button 
+2016-06-02 13:07:18,547 INFO  [Log] Home page is appear 
+2016-06-02 13:07:18,600 INFO  [Log] Click on Bidding link 
+2016-06-02 13:07:43,874 INFO  [Log] Creating order from backend 
+2016-06-02 13:07:43,890 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-02 13:07:44,243 INFO  [Log] Opening new tab to manual payment 
+2016-06-02 13:07:49,405 INFO  [Log] Navigate to payment URL 
+2016-06-02 14:24:23,348 INFO  [Log] Opening Browser 
+2016-06-02 14:24:56,883 INFO  [Log] Navigating to URL 
+2016-06-02 14:25:01,964 INFO  [Log] Closing Popup displayed on screen 
+2016-06-02 14:25:02,444 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-02 14:25:02,682 INFO  [Log] Filling User credential Login and Password 
+2016-06-02 14:25:07,773 INFO  [Log] Click on Login button 
+2016-06-02 14:25:12,970 INFO  [Log] Home page is appear 
+2016-06-02 14:25:13,025 INFO  [Log] Click on Bidding link 
+2016-06-02 14:25:37,578 INFO  [Log] Creating order from backend 
+2016-06-02 14:25:37,594 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-02 14:25:42,695 INFO  [Log] Handling window 
+2016-06-02 14:25:42,702 INFO  [Log] Opening Auction URL to create order 
+2016-06-02 14:25:53,149 INFO  [Log] Filling orederId and searching created order 
+2016-06-02 14:26:01,344 INFO  [Log] New fram is appeared 
+2016-06-02 14:26:01,430 INFO  [Log] Closing running Auction 
+2016-06-02 14:26:01,437 INFO  [Log] Closing popup after creating order 
+2016-06-02 14:26:06,152 INFO  [Log] Closing Iframe 
+2016-06-02 14:26:09,276 INFO  [Log] Navigating to URL to search customer details  
+2016-06-02 14:26:23,456 INFO  [Log] Order is created 
+2016-06-02 14:26:31,104 INFO  [Log] Going to My order page 
+2016-06-02 14:26:34,719 INFO  [Log] Opening new tab to manual payment 
+2016-06-02 14:26:39,856 INFO  [Log] Navigate to payment URL 
+2016-06-02 14:29:59,923 INFO  [Log] Opening Browser 
+2016-06-02 14:30:21,376 INFO  [Log] Navigating to URL 
+2016-06-02 14:30:26,537 INFO  [Log] Closing Popup displayed on screen 
+2016-06-02 14:30:29,258 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-02 14:30:29,979 INFO  [Log] Filling User credential Login and Password 
+2016-06-02 14:30:35,671 INFO  [Log] Click on Login button 
+2016-06-02 14:30:42,669 INFO  [Log] Home page is appear 
+2016-06-02 14:30:42,740 INFO  [Log] Click on Bidding link 
+2016-06-02 14:31:14,177 INFO  [Log] Creating order from backend 
+2016-06-02 14:31:14,197 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-02 14:31:19,352 INFO  [Log] Handling window 
+2016-06-02 14:31:19,352 INFO  [Log] Opening Auction URL to create order 
+2016-06-02 14:32:08,930 INFO  [Log] Opening new tab to manual payment 
+2016-06-02 14:48:42,895 INFO  [Log] Opening Browser 
+2016-06-02 14:49:19,232 INFO  [Log] Navigating to URL 
+2016-06-02 14:49:24,286 INFO  [Log] Closing Popup displayed on screen 
+2016-06-02 14:49:24,668 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-02 14:49:24,870 INFO  [Log] Filling User credential Login and Password 
+2016-06-02 14:49:29,924 INFO  [Log] Click on Login button 
+2016-06-02 14:49:35,094 INFO  [Log] Home page is appear 
+2016-06-02 14:49:35,113 INFO  [Log] Click on Bidding link 
+2016-06-02 14:49:59,656 INFO  [Log] Creating order from backend 
+2016-06-02 14:49:59,667 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-02 14:50:04,735 INFO  [Log] Handling window 
+2016-06-02 14:50:04,738 INFO  [Log] Opening Auction URL to create order 
+2016-06-02 14:50:16,301 INFO  [Log] Filling orederId and searching created order 
+2016-06-02 14:50:23,712 INFO  [Log] New fram is appeared 
+2016-06-02 14:50:23,811 INFO  [Log] Closing running Auction 
+2016-06-02 14:50:23,820 INFO  [Log] Closing popup after creating order 
+2016-06-02 14:50:28,655 INFO  [Log] Closing Iframe 
+2016-06-02 14:50:31,806 INFO  [Log] Navigating to URL to search customer details  
+2016-06-02 14:50:46,182 INFO  [Log] Order is created 
+2016-06-02 14:50:53,805 INFO  [Log] Going to My order page 
+2016-06-02 14:51:02,616 INFO  [Log] Click on Order created link 
+2016-06-02 14:51:08,901 INFO  [Log] Click on Confirm order button 
+2016-06-02 14:51:11,996 INFO  [Log] Click on Submit order button 
+2016-06-02 14:51:12,051 INFO  [Log] Picking order id for payment 
+2016-06-02 14:51:21,085 INFO  [Log] Picking order Amount 
+2016-06-02 14:51:24,135 INFO  [Log] Click on Submit oder for delivery 
+2016-06-02 14:51:24,299 INFO  [Log] Opening new tab to manual payment 
+2016-06-02 14:51:29,451 INFO  [Log] Navigate to payment URL 
+2016-06-02 14:51:43,354 INFO  [Log] Filling orderId 
+2016-06-02 14:51:43,405 INFO  [Log] Filling Account number to payment 
+2016-06-02 14:51:44,593 INFO  [Log] Click on submit button 
+2016-06-02 14:54:03,934 INFO  [Log] Opening Browser 
+2016-06-02 14:54:54,215 INFO  [Log] Navigating to URL 
+2016-06-02 14:54:59,300 INFO  [Log] Closing Popup displayed on screen 
+2016-06-02 14:54:59,761 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-02 14:54:59,974 INFO  [Log] Filling User credential Login and Password 
+2016-06-02 14:55:05,080 INFO  [Log] Click on Login button 
+2016-06-02 14:55:10,265 INFO  [Log] Home page is appear 
+2016-06-02 14:55:10,290 INFO  [Log] Click on Bidding link 
+2016-06-02 14:55:47,942 INFO  [Log] Creating order from backend 
+2016-06-02 14:55:47,965 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-02 14:55:53,074 INFO  [Log] Handling window 
+2016-06-02 14:55:53,085 INFO  [Log] Opening Auction URL to create order 
+2016-06-02 14:56:29,626 INFO  [Log] Filling orederId and searching created order 
+2016-06-02 14:56:45,200 INFO  [Log] Opening Browser 
+2016-06-02 14:57:22,533 INFO  [Log] Navigating to URL 
+2016-06-02 14:57:27,617 INFO  [Log] Closing Popup displayed on screen 
+2016-06-02 14:57:28,096 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-02 14:57:28,309 INFO  [Log] Filling User credential Login and Password 
+2016-06-02 14:57:33,426 INFO  [Log] Click on Login button 
+2016-06-02 14:57:38,596 INFO  [Log] Home page is appear 
+2016-06-02 14:57:38,615 INFO  [Log] Click on Bidding link 
+2016-06-02 14:58:15,086 INFO  [Log] Creating order from backend 
+2016-06-02 14:58:15,101 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-02 14:58:20,193 INFO  [Log] Handling window 
+2016-06-02 14:58:20,202 INFO  [Log] Opening Auction URL to create order 
+2016-06-02 14:58:34,398 INFO  [Log] Filling orederId and searching created order 
+2016-06-02 14:58:54,198 INFO  [Log] Opening Browser 
+2016-06-02 14:59:31,227 INFO  [Log] Navigating to URL 
+2016-06-02 14:59:36,321 INFO  [Log] Closing Popup displayed on screen 
+2016-06-02 14:59:36,799 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-02 14:59:37,013 INFO  [Log] Filling User credential Login and Password 
+2016-06-02 14:59:42,105 INFO  [Log] Click on Login button 
+2016-06-02 14:59:47,290 INFO  [Log] Home page is appear 
+2016-06-02 14:59:47,339 INFO  [Log] Click on Bidding link 
+2016-06-02 15:00:07,722 INFO  [Log] Creating order from backend 
+2016-06-02 15:00:07,738 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-02 15:15:21,700 INFO  [Log] Home page is appear 
+2016-06-02 15:15:26,705 INFO  [Log] Creating order from backend 
+2016-06-02 15:15:26,710 INFO  [Log] Opening new tab to manual payment 
+2016-06-02 15:16:06,417 INFO  [Log] Opening Browser 
+2016-06-02 15:16:39,593 INFO  [Log] Navigating to URL 
+2016-06-02 15:16:44,686 INFO  [Log] Closing Popup displayed on screen 
+2016-06-02 15:16:45,197 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-02 15:16:45,421 INFO  [Log] Filling User credential Login and Password 
+2016-06-02 15:16:50,528 INFO  [Log] Click on Login button 
+2016-06-02 15:16:55,716 INFO  [Log] Home page is appear 
+2016-06-02 15:16:55,791 INFO  [Log] Click on Bidding link 
+2016-06-02 15:17:30,479 INFO  [Log] Creating order from backend 
+2016-06-02 15:17:30,495 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-02 15:17:35,597 INFO  [Log] Handling window 
+2016-06-02 15:17:35,608 INFO  [Log] Opening Auction URL to create order 
+2016-06-02 15:17:45,583 INFO  [Log] Filling orederId and searching created order 
+2016-06-02 15:18:00,313 INFO  [Log] Opening new tab to manual payment 
+2016-06-02 15:18:07,374 INFO  [Log] Opening Browser 
+2016-06-02 15:18:39,979 INFO  [Log] Navigating to URL 
+2016-06-02 15:18:45,027 INFO  [Log] Closing Popup displayed on screen 
+2016-06-02 15:18:45,461 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-02 15:18:45,673 INFO  [Log] Filling User credential Login and Password 
+2016-06-02 15:18:50,799 INFO  [Log] Click on Login button 
+2016-06-02 15:18:55,981 INFO  [Log] Home page is appear 
+2016-06-02 15:18:56,037 INFO  [Log] Click on Bidding link 
+2016-06-02 15:19:30,783 INFO  [Log] Creating order from backend 
+2016-06-02 15:19:30,799 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-02 15:19:35,971 INFO  [Log] Handling window 
+2016-06-02 15:19:35,984 INFO  [Log] Opening Auction URL to create order 
+2016-06-02 15:19:45,080 INFO  [Log] Filling orederId and searching created order 
+2016-06-02 15:19:59,040 INFO  [Log] Opening new tab to manual payment 
+2016-06-02 15:21:00,728 INFO  [Log] Opening Browser 
+2016-06-02 15:21:34,300 INFO  [Log] Navigating to URL 
+2016-06-02 15:21:39,352 INFO  [Log] Closing Popup displayed on screen 
+2016-06-02 15:21:39,873 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-02 15:21:40,092 INFO  [Log] Filling User credential Login and Password 
+2016-06-02 15:21:45,144 INFO  [Log] Click on Login button 
+2016-06-02 15:21:50,342 INFO  [Log] Home page is appear 
+2016-06-02 15:21:50,361 INFO  [Log] Click on Bidding link 
+2016-06-02 15:22:25,346 INFO  [Log] Creating order from backend 
+2016-06-02 15:22:25,350 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-02 15:22:30,439 INFO  [Log] Handling window 
+2016-06-02 15:22:30,449 INFO  [Log] Opening Auction URL to create order 
+2016-06-02 15:22:40,259 INFO  [Log] Filling orederId and searching created order 
+2016-06-02 15:22:54,814 INFO  [Log] Opening new tab to manual payment 
+2016-06-02 15:22:59,926 INFO  [Log] Navigate to payment URL 
+2016-06-02 17:14:41,544 INFO  [Log] Opening Browser 
+2016-06-02 17:15:17,175 INFO  [Log] Navigating to URL 
+2016-06-02 17:15:22,271 INFO  [Log] Closing Popup displayed on screen 
+2016-06-02 17:15:22,585 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-02 17:15:22,842 INFO  [Log] Filling User credential Login and Password 
+2016-06-02 17:15:27,934 INFO  [Log] Click on Login button 
+2016-06-02 17:15:33,194 INFO  [Log] Home page is appear 
+2016-06-02 17:15:33,270 INFO  [Log] Click on Bidding link 
+2016-06-02 17:15:58,751 INFO  [Log] Creating order from backend 
+2016-06-02 17:15:58,767 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-02 17:16:03,894 INFO  [Log] Handling window 
+2016-06-02 17:16:03,902 INFO  [Log] Opening Auction URL to create order 
+2016-06-02 17:16:17,911 INFO  [Log] Filling orederId and searching created order 
+2016-06-02 17:16:26,721 INFO  [Log] New fram is appeared 
+2016-06-02 17:16:26,819 INFO  [Log] Closing running Auction 
+2016-06-02 17:16:26,827 INFO  [Log] Closing popup after creating order 
+2016-06-02 17:16:31,357 INFO  [Log] Closing Iframe 
+2016-06-02 17:16:34,479 INFO  [Log] Navigating to URL to search customer details  
+2016-06-02 17:16:50,788 INFO  [Log] Order is created 
+2016-06-02 17:17:04,150 INFO  [Log] Opening new tab to manual payment 
+2016-06-02 17:17:09,337 INFO  [Log] Navigate to payment URL 
+2016-06-02 17:19:42,458 INFO  [Log] Opening Browser 
+2016-06-02 17:20:13,908 INFO  [Log] Navigating to URL 
+2016-06-02 17:20:19,022 INFO  [Log] Closing Popup displayed on screen 
+2016-06-02 17:20:19,376 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-02 17:20:19,660 INFO  [Log] Filling User credential Login and Password 
+2016-06-02 17:20:24,750 INFO  [Log] Click on Login button 
+2016-06-02 17:20:29,897 INFO  [Log] Home page is appear 
+2016-06-02 17:20:29,956 INFO  [Log] Click on Bidding link 
+2016-06-02 17:21:07,280 INFO  [Log] Creating order from backend 
+2016-06-02 17:21:21,384 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-02 17:21:50,456 INFO  [Log] Handling window 
+2016-06-02 17:22:17,303 INFO  [Log] Opening Auction URL to create order 
+2016-06-02 17:23:59,438 INFO  [Log] Opening Browser 
+2016-06-02 17:24:33,518 INFO  [Log] Navigating to URL 
+2016-06-02 17:24:38,622 INFO  [Log] Closing Popup displayed on screen 
+2016-06-02 17:24:38,945 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-02 17:24:39,200 INFO  [Log] Filling User credential Login and Password 
+2016-06-02 17:24:44,290 INFO  [Log] Click on Login button 
+2016-06-02 17:24:49,438 INFO  [Log] Home page is appear 
+2016-06-02 17:24:49,492 INFO  [Log] Click on Bidding link 
+2016-06-02 17:25:24,024 INFO  [Log] Creating order from backend 
+2016-06-02 17:25:24,040 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-02 17:25:24,051 INFO  [Log] Handling window 
+2016-06-02 17:25:24,051 INFO  [Log] Opening Auction URL to create order 
+2016-06-02 17:25:34,055 INFO  [Log] Filling orederId and searching created order 
+2016-06-02 17:25:50,466 INFO  [Log] Opening new tab to manual payment 
+2016-06-02 17:25:55,627 INFO  [Log] Navigate to payment URL 
+2016-06-02 17:30:55,015 INFO  [Log] Opening Browser 
+2016-06-02 17:31:28,512 INFO  [Log] Navigating to URL 
+2016-06-02 17:31:33,620 INFO  [Log] Closing Popup displayed on screen 
+2016-06-02 17:31:33,941 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-02 17:31:34,223 INFO  [Log] Filling User credential Login and Password 
+2016-06-02 17:31:39,314 INFO  [Log] Click on Login button 
+2016-06-02 17:31:44,587 INFO  [Log] Home page is appear 
+2016-06-02 17:31:44,643 INFO  [Log] Click on Bidding link 
+2016-06-02 17:32:04,083 INFO  [Log] Creating order from backend 
+2016-06-02 17:32:05,116 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-02 17:32:05,918 INFO  [Log] Opening Auction URL to create order 
+2016-06-02 17:32:15,758 INFO  [Log] Handling window 
+2016-06-02 17:32:23,206 INFO  [Log] Filling orederId and searching created order 
+2016-06-02 17:32:35,287 INFO  [Log] New fram is appeared 
+2016-06-02 17:32:35,395 INFO  [Log] Closing running Auction 
+2016-06-02 17:32:35,408 INFO  [Log] Closing popup after creating order 
+2016-06-03 12:00:14,316 INFO  [Log] Opening Browser 
+2016-06-03 12:00:51,963 INFO  [Log] Navigating to URL 
+2016-06-03 12:00:57,027 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 12:00:57,351 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 12:00:57,642 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 12:01:02,726 INFO  [Log] Click on Login button 
+2016-06-03 12:01:07,883 INFO  [Log] Home page is appear 
+2016-06-03 12:01:10,791 INFO  [Log] Click on Bidding link 
+2016-06-03 12:02:39,704 INFO  [Log] Creating order from backend 
+2016-06-03 12:02:39,714 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-03 12:02:39,801 INFO  [Log] Handling window 
+2016-06-03 12:02:56,822 INFO  [Log] Opening new tab to manual payment 
+2016-06-03 12:03:01,943 INFO  [Log] Navigate to payment URL 
+2016-06-03 12:04:27,964 INFO  [Log] Opening Browser 
+2016-06-03 12:04:49,648 INFO  [Log] Navigating to URL 
+2016-06-03 12:04:54,795 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 12:04:57,459 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 12:04:58,655 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 12:05:03,744 INFO  [Log] Click on Login button 
+2016-06-03 12:05:11,089 INFO  [Log] Home page is appear 
+2016-06-03 12:05:11,145 INFO  [Log] Click on Bidding link 
+2016-06-03 12:05:37,830 INFO  [Log] Creating order from backend 
+2016-06-03 12:05:37,842 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-03 12:05:37,983 INFO  [Log] Handling window 
+2016-06-03 12:05:58,031 INFO  [Log] Opening new tab to manual payment 
+2016-06-03 12:07:49,876 INFO  [Log] Opening Browser 
+2016-06-03 12:08:10,507 INFO  [Log] Navigating to URL 
+2016-06-03 12:08:15,671 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 12:08:18,283 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 12:08:18,880 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 12:08:24,466 INFO  [Log] Click on Login button 
+2016-06-03 12:08:31,510 INFO  [Log] Home page is appear 
+2016-06-03 12:08:31,573 INFO  [Log] Click on Bidding link 
+2016-06-03 12:08:59,887 INFO  [Log] Creating order from backend 
+2016-06-03 12:08:59,913 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-03 12:09:00,061 INFO  [Log] Handling window 
+2016-06-03 12:12:16,400 INFO  [Log] Opening new tab to manual payment 
+2016-06-03 12:13:18,258 INFO  [Log] Opening Browser 
+2016-06-03 12:14:21,854 INFO  [Log] Navigating to URL 
+2016-06-03 12:14:41,671 INFO  [Log] Opening Browser 
+2016-06-03 12:14:44,600 INFO  [Log] Home page is appear 
+2016-06-03 12:14:49,700 INFO  [Log] Creating order from backend 
+2016-06-03 12:14:49,793 INFO  [Log] Opening new tab to manual payment 
+2016-06-03 12:15:33,209 INFO  [Log] Opening Browser 
+2016-06-03 12:15:44,361 INFO  [Log] Navigating to URL 
+2016-06-03 12:16:56,120 INFO  [Log] Opening Browser 
+2016-06-03 12:17:06,311 INFO  [Log] Navigating to URL 
+2016-06-03 12:17:32,782 INFO  [RetryExec] I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://127.0.0.1:7055: The target server failed to respond 
+2016-06-03 12:17:32,783 INFO  [RetryExec] Retrying request to {}->http://127.0.0.1:7055 
+2016-06-03 12:17:38,866 INFO  [Log] Home page is appear 
+2016-06-03 12:17:45,953 INFO  [Log] Creating order from backend 
+2016-06-03 12:17:49,058 INFO  [Log] Opening new tab to manual payment 
+2016-06-03 12:23:11,864 INFO  [Log] Opening Browser 
+2016-06-03 12:23:38,173 INFO  [Log] Navigating to URL 
+2016-06-03 12:23:43,332 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 12:23:45,925 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 12:23:46,526 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 12:23:52,021 INFO  [Log] Click on Login button 
+2016-06-03 12:23:58,980 INFO  [Log] Home page is appear 
+2016-06-03 12:24:00,873 INFO  [Log] Click on Bidding link 
+2016-06-03 12:24:31,693 INFO  [Log] Creating order from backend 
+2016-06-03 12:24:31,714 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-03 12:24:31,858 INFO  [Log] Handling window 
+2016-06-03 12:25:16,865 INFO  [Log] Opening new tab to manual payment 
+2016-06-03 12:25:54,661 INFO  [Log] Opening Browser 
+2016-06-03 12:26:21,009 INFO  [Log] Navigating to URL 
+2016-06-03 12:26:26,172 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 12:26:28,763 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 12:26:29,359 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 12:26:34,918 INFO  [Log] Click on Login button 
+2016-06-03 12:26:41,899 INFO  [Log] Home page is appear 
+2016-06-03 12:26:44,083 INFO  [Log] Click on Bidding link 
+2016-06-03 12:27:14,945 INFO  [Log] Creating order from backend 
+2016-06-03 12:27:14,972 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-03 12:27:15,105 INFO  [Log] Handling window 
+2016-06-03 12:27:27,414 INFO  [Log] Filling orederId and searching created order 
+2016-06-03 12:27:37,107 INFO  [Log] New fram is appeared 
+2016-06-03 12:27:45,668 INFO  [Log] Closing running Auction 
+2016-06-03 12:27:45,717 INFO  [Log] Closing popup after creating order 
+2016-06-03 12:27:49,856 INFO  [Log] Closing Iframe 
+2016-06-03 12:27:53,431 INFO  [Log] Navigating to URL to search customer details  
+2016-06-03 12:28:17,529 INFO  [Log] Order is created 
+2016-06-03 12:28:27,094 INFO  [Log] Opening new tab to manual payment 
+2016-06-03 12:30:15,143 INFO  [Log] Opening Browser 
+2016-06-03 12:30:37,204 INFO  [Log] Navigating to URL 
+2016-06-03 12:30:42,372 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 12:30:44,957 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 12:30:45,662 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 12:30:51,241 INFO  [Log] Click on Login button 
+2016-06-03 12:30:58,454 INFO  [Log] Home page is appear 
+2016-06-03 12:30:58,494 INFO  [Log] Click on Bidding link 
+2016-06-03 12:31:26,367 INFO  [Log] Creating order from backend 
+2016-06-03 12:31:26,393 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-03 12:31:26,547 INFO  [Log] Handling window 
+2016-06-03 12:31:34,636 INFO  [Log] Filling orederId and searching created order 
+2016-06-03 12:31:43,319 INFO  [Log] New fram is appeared 
+2016-06-03 12:31:43,445 INFO  [Log] Closing running Auction 
+2016-06-03 12:31:43,489 INFO  [Log] Closing popup after creating order 
+2016-06-03 12:31:47,230 INFO  [Log] Closing Iframe 
+2016-06-03 12:31:50,769 INFO  [Log] Navigating to URL to search customer details  
+2016-06-03 12:32:04,991 INFO  [Log] Order is created 
+2016-06-03 12:32:18,392 INFO  [Log] Opening new tab to manual payment 
+2016-06-03 12:36:55,729 INFO  [Log] Opening Browser 
+2016-06-03 12:37:15,872 INFO  [Log] Navigating to URL 
+2016-06-03 12:37:21,034 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 12:37:23,596 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 12:37:24,226 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 12:37:29,822 INFO  [Log] Click on Login button 
+2016-06-03 12:37:36,770 INFO  [Log] Home page is appear 
+2016-06-03 12:37:36,837 INFO  [Log] Click on Bidding link 
+2016-06-03 12:38:03,147 INFO  [Log] Creating order from backend 
+2016-06-03 12:38:03,168 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-03 12:38:03,308 INFO  [Log] Handling window 
+2016-06-03 12:38:10,248 INFO  [Log] Filling orederId and searching created order 
+2016-06-03 12:38:19,279 INFO  [Log] New fram is appeared 
+2016-06-03 12:38:19,398 INFO  [Log] Closing running Auction 
+2016-06-03 12:38:19,447 INFO  [Log] Closing popup after creating order 
+2016-06-03 12:38:23,039 INFO  [Log] Closing Iframe 
+2016-06-03 12:38:26,548 INFO  [Log] Navigating to URL to search customer details  
+2016-06-03 12:38:42,676 INFO  [Log] Order is created 
+2016-06-03 12:38:59,061 INFO  [Log] Opening new tab to manual payment 
+2016-06-03 13:37:22,598 INFO  [Log] Opening Browser 
+2016-06-03 13:37:56,793 INFO  [Log] Navigating to URL 
+2016-06-03 13:38:01,954 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 13:38:04,551 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 13:38:05,161 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 13:38:10,794 INFO  [Log] Click on Login button 
+2016-06-03 13:38:17,930 INFO  [Log] Home page is appear 
+2016-06-03 13:38:17,980 INFO  [Log] Click on Bidding link 
+2016-06-03 13:38:50,796 INFO  [Log] Creating order from backend 
+2016-06-03 13:38:50,809 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-03 13:38:50,966 INFO  [Log] Handling window 
+2016-06-03 13:39:07,148 INFO  [Log] Opening new tab to manual payment 
+2016-06-03 13:40:17,038 INFO  [Log] Opening Browser 
+2016-06-03 13:40:37,241 INFO  [Log] Navigating to URL 
+2016-06-03 13:40:42,365 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 13:40:45,114 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 13:40:45,702 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 13:40:51,203 INFO  [Log] Click on Login button 
+2016-06-03 13:40:58,212 INFO  [Log] Home page is appear 
+2016-06-03 13:40:58,285 INFO  [Log] Click on Bidding link 
+2016-06-03 13:41:28,411 INFO  [Log] Creating order from backend 
+2016-06-03 13:41:28,455 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-03 13:42:18,774 INFO  [Log] Opening new tab to manual payment 
+2016-06-03 14:38:00,453 INFO  [Log] Opening Browser 
+2016-06-03 14:38:23,693 INFO  [Log] Navigating to URL 
+2016-06-03 14:38:28,862 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 14:38:32,049 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 14:38:32,692 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 14:38:38,216 INFO  [Log] Click on Login button 
+2016-06-03 14:38:45,340 INFO  [Log] Home page is appear 
+2016-06-03 14:38:45,417 INFO  [Log] Click on Bidding link 
+2016-06-03 14:39:18,512 INFO  [Log] Creating order from backend 
+2016-06-03 14:39:20,624 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-03 14:39:36,908 INFO  [Log] Handling window 
+2016-06-03 14:40:53,639 INFO  [Log] Opening new tab to manual payment 
+2016-06-03 14:43:21,141 INFO  [Log] Opening Browser 
+2016-06-03 14:43:57,379 INFO  [Log] Navigating to URL 
+2016-06-03 14:44:02,474 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 14:44:03,005 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 14:44:03,246 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 14:44:08,329 INFO  [Log] Click on Login button 
+2016-06-03 14:44:13,642 INFO  [Log] Home page is appear 
+2016-06-03 14:44:13,690 INFO  [Log] Click on Bidding link 
+2016-06-03 14:45:33,202 INFO  [Log] Opening Browser 
+2016-06-03 14:46:07,385 INFO  [Log] Navigating to URL 
+2016-06-03 14:46:12,487 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 14:46:13,110 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 14:46:13,386 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 14:46:18,517 INFO  [Log] Click on Login button 
+2016-06-03 14:46:23,704 INFO  [Log] Home page is appear 
+2016-06-03 14:46:23,759 INFO  [Log] Click on Bidding link 
+2016-06-03 14:46:58,587 INFO  [Log] Creating order from backend 
+2016-06-03 14:47:00,417 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-03 14:47:03,266 INFO  [Log] Handling window 
+2016-06-03 14:47:05,817 INFO  [Log] Opening Auction URL to create order 
+2016-06-03 14:47:22,388 INFO  [Log] Filling orederId and searching created order 
+2016-06-03 14:47:33,095 INFO  [Log] New fram is appeared 
+2016-06-03 14:47:33,183 INFO  [Log] Closing running Auction 
+2016-06-03 14:47:33,191 INFO  [Log] Closing popup after creating order 
+2016-06-03 14:47:37,069 INFO  [Log] Closing Iframe 
+2016-06-03 14:47:40,194 INFO  [Log] Navigating to URL to search customer details  
+2016-06-03 14:47:55,529 INFO  [Log] Order is created 
+2016-06-03 14:49:02,958 INFO  [Log] Opening Browser 
+2016-06-03 14:49:39,783 INFO  [Log] Navigating to URL 
+2016-06-03 14:49:44,853 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 14:49:45,345 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 14:49:45,598 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 14:49:50,685 INFO  [Log] Click on Login button 
+2016-06-03 14:49:55,998 INFO  [Log] Home page is appear 
+2016-06-03 14:49:56,058 INFO  [Log] Click on Bidding link 
+2016-06-03 14:50:24,233 INFO  [Log] Creating order from backend 
+2016-06-03 14:50:25,656 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-03 14:50:39,296 INFO  [Log] Handling window 
+2016-06-03 14:50:49,481 INFO  [Log] Opening Auction URL to create order 
+2016-06-03 14:51:03,410 INFO  [Log] Filling orederId and searching created order 
+2016-06-03 14:51:12,102 INFO  [Log] New fram is appeared 
+2016-06-03 14:51:12,210 INFO  [Log] Closing running Auction 
+2016-06-03 14:51:12,218 INFO  [Log] Closing popup after creating order 
+2016-06-03 14:51:16,105 INFO  [Log] Closing Iframe 
+2016-06-03 14:51:19,243 INFO  [Log] Navigating to URL to search customer details  
+2016-06-03 14:51:35,003 INFO  [Log] Order is created 
+2016-06-03 14:51:52,163 INFO  [Log] Opening new tab to manual payment 
+2016-06-03 14:52:11,023 INFO  [Log] Opening Browser 
+2016-06-03 14:54:04,245 INFO  [Log] Navigating to URL 
+2016-06-03 14:54:15,285 INFO  [Log] Home page is appear 
+2016-06-03 14:54:15,334 INFO  [Log] Click on Bidding link 
+2016-06-03 14:54:26,398 INFO  [Log] Creating order from backend 
+2016-06-03 14:54:32,613 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-03 14:54:34,422 INFO  [Log] Handling window 
+2016-06-03 14:56:15,622 INFO  [Log] Opening Auction URL to create order 
+2016-06-03 14:56:28,664 INFO  [Log] Filling orederId and searching created order 
+2016-06-03 14:57:05,874 INFO  [Log] Opening new tab to manual payment 
+2016-06-03 14:57:11,011 INFO  [Log] Navigate to payment URL 
+2016-06-03 14:59:19,580 INFO  [Log] Opening Browser 
+2016-06-03 14:59:53,786 INFO  [Log] Navigating to URL 
+2016-06-03 14:59:58,895 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 14:59:59,393 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 14:59:59,658 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 15:00:04,766 INFO  [Log] Click on Login button 
+2016-06-03 15:00:10,047 INFO  [Log] Home page is appear 
+2016-06-03 15:00:10,095 INFO  [Log] Click on Bidding link 
+2016-06-03 15:00:39,829 INFO  [Log] Creating order from backend 
+2016-06-03 15:00:57,053 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-03 15:03:37,370 INFO  [Log] Handling window 
+2016-06-03 15:03:44,577 INFO  [Log] Opening Auction URL to create order 
+2016-06-03 15:04:04,873 INFO  [Log] Filling orederId and searching created order 
+2016-06-03 15:04:59,074 INFO  [Log] Opening new tab to manual payment 
+2016-06-03 15:05:04,223 INFO  [Log] Navigate to payment URL 
+2016-06-03 15:37:11,321 INFO  [Log] Opening Browser 
+2016-06-03 15:37:46,508 INFO  [Log] Navigating to URL 
+2016-06-03 15:37:51,610 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 15:37:52,129 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 15:37:52,384 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 15:37:57,482 INFO  [Log] Click on Login button 
+2016-06-03 15:38:02,796 INFO  [Log] Home page is appear 
+2016-06-03 15:38:02,820 INFO  [Log] Click on Bidding link 
+2016-06-03 15:38:39,581 INFO  [Log] Opening Browser 
+2016-06-03 15:39:15,353 INFO  [Log] Navigating to URL 
+2016-06-03 15:39:20,461 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 15:39:21,055 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 15:39:21,295 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 15:39:26,398 INFO  [Log] Click on Login button 
+2016-06-03 15:39:31,606 INFO  [Log] Home page is appear 
+2016-06-03 15:39:31,666 INFO  [Log] Click on Bidding link 
+2016-06-03 15:40:09,928 INFO  [Log] Creating order from backend 
+2016-06-03 15:40:11,672 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-03 15:40:13,722 INFO  [Log] Handling window 
+2016-06-03 15:40:27,120 INFO  [Log] Opening Auction URL to create order 
+2016-06-03 15:40:47,089 INFO  [Log] Opening Browser 
+2016-06-03 15:41:22,650 INFO  [Log] Navigating to URL 
+2016-06-03 15:41:27,737 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 15:41:28,283 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 15:41:28,530 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 15:41:33,620 INFO  [Log] Click on Login button 
+2016-06-03 15:41:38,812 INFO  [Log] Home page is appear 
+2016-06-03 15:41:38,863 INFO  [Log] Click on Bidding link 
+2016-06-03 15:42:16,121 INFO  [Log] Creating order from backend 
+2016-06-03 15:42:18,424 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-03 15:42:27,704 INFO  [Log] Handling window 
+2016-06-03 15:42:34,614 INFO  [Log] Opening Auction URL to create order 
+2016-06-03 15:42:52,741 INFO  [Log] Opening Browser 
+2016-06-03 15:43:30,153 INFO  [Log] Navigating to URL 
+2016-06-03 15:43:35,278 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 15:43:35,776 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 15:43:36,020 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 15:43:41,112 INFO  [Log] Click on Login button 
+2016-06-03 15:43:46,460 INFO  [Log] Home page is appear 
+2016-06-03 15:43:46,503 INFO  [Log] Click on Bidding link 
+2016-06-03 15:45:20,379 INFO  [Log] Creating order from backend 
+2016-06-03 15:45:22,169 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-03 15:45:34,296 INFO  [Log] Handling window 
+2016-06-03 15:45:34,296 INFO  [Log] Opening Auction URL to create order 
+2016-06-03 15:45:46,229 INFO  [Log] Filling orederId and searching created order 
+2016-06-03 15:46:01,589 INFO  [Log] Opening new tab to manual payment 
+2016-06-03 15:46:06,727 INFO  [Log] Navigate to payment URL 
+2016-06-03 15:50:34,827 INFO  [Log] Opening Browser 
+2016-06-03 15:51:13,293 INFO  [Log] Navigating to URL 
+2016-06-03 15:51:18,403 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 15:51:18,894 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 15:51:19,158 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 15:51:24,269 INFO  [Log] Click on Login button 
+2016-06-03 15:51:29,605 INFO  [Log] Home page is appear 
+2016-06-03 15:51:29,633 INFO  [Log] Click on Bidding link 
+2016-06-03 15:52:04,836 INFO  [Log] Creating order from backend 
+2016-06-03 15:52:08,955 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-03 15:53:14,923 INFO  [Log] Opening new tab to manual payment 
+2016-06-03 15:57:33,371 INFO  [Log] Opening Browser 
+2016-06-03 15:58:10,321 INFO  [Log] Navigating to URL 
+2016-06-03 15:58:15,423 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 15:58:15,926 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 15:58:16,193 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 15:58:21,292 INFO  [Log] Click on Login button 
+2016-06-03 15:58:26,575 INFO  [Log] Home page is appear 
+2016-06-03 15:58:26,625 INFO  [Log] Click on Bidding link 
+2016-06-03 15:58:55,086 INFO  [Log] Creating order from backend 
+2016-06-03 15:58:58,078 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-03 15:59:15,997 INFO  [Log] Handling window 
+2016-06-03 15:59:25,742 INFO  [Log] Opening Auction URL to create order 
+2016-06-03 15:59:40,460 INFO  [Log] Filling orederId and searching created order 
+2016-06-03 16:09:17,997 INFO  [Log] Opening Browser 
+2016-06-03 16:09:57,719 INFO  [Log] Navigating to URL 
+2016-06-03 16:10:02,813 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 16:10:03,364 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 16:10:03,569 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 16:10:08,661 INFO  [Log] Click on Login button 
+2016-06-03 16:10:13,974 INFO  [Log] Home page is appear 
+2016-06-03 16:10:14,034 INFO  [Log] Click on Bidding link 
+2016-06-03 16:10:42,346 INFO  [Log] Creating order from backend 
+2016-06-03 16:10:43,321 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-03 16:13:51,471 INFO  [Log] Opening new tab to manual payment 
+2016-06-03 16:13:56,580 INFO  [Log] Navigate to payment URL 
+2016-06-03 16:14:52,813 INFO  [Log] Opening Browser 
+2016-06-03 16:15:29,516 INFO  [Log] Navigating to URL 
+2016-06-03 16:15:34,599 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 16:15:35,163 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 16:15:35,424 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 16:15:40,537 INFO  [Log] Click on Login button 
+2016-06-03 16:15:45,816 INFO  [Log] Home page is appear 
+2016-06-03 16:15:45,864 INFO  [Log] Click on Bidding link 
+2016-06-03 16:16:19,629 INFO  [Log] Creating order from backend 
+2016-06-03 16:16:19,646 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-03 16:16:20,114 INFO  [Log] Opening new tab to manual payment 
+2016-06-03 16:16:25,249 INFO  [Log] Navigate to payment URL 
+2016-06-03 16:25:38,043 INFO  [Log] Opening Browser 
+2016-06-03 16:26:13,452 INFO  [Log] Navigating to URL 
+2016-06-03 16:26:18,556 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 16:26:19,107 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 16:26:19,361 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 16:26:24,460 INFO  [Log] Click on Login button 
+2016-06-03 16:26:29,777 INFO  [Log] Home page is appear 
+2016-06-03 16:26:29,827 INFO  [Log] Click on Bidding link 
+2016-06-03 17:24:32,723 INFO  [Log] Creating order from backend 
+2016-06-03 17:24:44,772 INFO  [Log] Opening Browser 
+2016-06-03 17:25:18,004 INFO  [Log] Navigating to URL 
+2016-06-03 17:25:23,112 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 17:25:23,625 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 17:25:23,910 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 17:25:29,012 INFO  [Log] Click on Login button 
+2016-06-03 17:25:34,303 INFO  [Log] Home page is appear 
+2016-06-03 17:25:34,358 INFO  [Log] Click on Bidding link 
+2016-06-03 17:26:03,511 INFO  [Log] Creating order from backend 
+2016-06-03 17:26:08,014 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-03 17:27:18,447 INFO  [Log] Opening new tab to manual payment 
+2016-06-03 17:29:22,790 INFO  [Log] Opening Browser 
+2016-06-03 17:29:56,894 INFO  [Log] Navigating to URL 
+2016-06-03 17:30:01,961 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 17:30:02,567 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 17:30:02,847 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 17:30:07,955 INFO  [Log] Click on Login button 
+2016-06-03 17:30:13,264 INFO  [Log] Home page is appear 
+2016-06-03 17:30:13,318 INFO  [Log] Click on Bidding link 
+2016-06-03 17:30:40,824 INFO  [Log] Creating order from backend 
+2016-06-03 17:30:42,625 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-03 17:39:07,877 INFO  [Log] Opening Browser 
+2016-06-03 17:39:42,802 INFO  [Log] Navigating to URL 
+2016-06-03 17:39:47,929 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 17:39:48,387 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 17:39:48,651 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 17:39:53,756 INFO  [Log] Click on Login button 
+2016-06-03 17:39:58,946 INFO  [Log] Home page is appear 
+2016-06-03 17:39:58,999 INFO  [Log] Click on Bidding link 
+2016-06-03 17:40:25,722 INFO  [Log] Opening Browser 
+2016-06-03 17:40:57,648 INFO  [Log] Navigating to URL 
+2016-06-03 17:41:02,737 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 17:41:03,236 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 17:41:03,479 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 17:41:08,576 INFO  [Log] Click on Login button 
+2016-06-03 17:41:13,763 INFO  [Log] Home page is appear 
+2016-06-03 17:41:13,822 INFO  [Log] Click on Bidding link 
+2016-06-03 17:41:41,945 INFO  [Log] Creating order from backend 
+2016-06-03 17:41:44,573 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-03 17:42:11,998 INFO  [Log] Handling window 
+2016-06-03 17:42:11,999 INFO  [Log] Opening Auction URL to create order 
+2016-06-03 17:42:17,167 INFO  [Log] Filling orederId and searching created order 
+2016-06-03 17:42:24,669 INFO  [Log] New fram is appeared 
+2016-06-03 17:42:24,749 INFO  [Log] Closing running Auction 
+2016-06-03 17:42:24,757 INFO  [Log] Closing popup after creating order 
+2016-06-03 17:42:28,647 INFO  [Log] Closing Iframe 
+2016-06-03 17:43:26,246 INFO  [Log] Opening Browser 
+2016-06-03 17:44:05,611 INFO  [Log] Navigating to URL 
+2016-06-03 17:44:10,715 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 17:44:11,153 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 17:44:11,431 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 17:44:16,531 INFO  [Log] Click on Login button 
+2016-06-03 17:44:21,710 INFO  [Log] Home page is appear 
+2016-06-03 17:44:21,750 INFO  [Log] Click on Bidding link 
+2016-06-03 17:44:49,506 INFO  [Log] Creating order from backend 
+2016-06-03 17:44:51,083 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-03 17:45:40,627 INFO  [Log] Opening Browser 
+2016-06-03 17:46:14,745 INFO  [Log] Navigating to URL 
+2016-06-03 17:46:19,852 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 17:46:20,343 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 17:46:20,599 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 17:46:25,700 INFO  [Log] Click on Login button 
+2016-06-03 17:46:31,038 INFO  [Log] Home page is appear 
+2016-06-03 17:46:31,091 INFO  [Log] Click on Bidding link 
+2016-06-03 17:46:59,990 INFO  [Log] Creating order from backend 
+2016-06-03 17:47:01,325 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-03 17:50:05,041 INFO  [Log] Opening Browser 
+2016-06-03 17:50:40,243 INFO  [Log] Navigating to URL 
+2016-06-03 17:50:45,297 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 17:50:45,875 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 17:50:46,157 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 17:50:51,247 INFO  [Log] Click on Login button 
+2016-06-03 17:50:56,537 INFO  [Log] Home page is appear 
+2016-06-03 17:50:56,596 INFO  [Log] Click on Bidding link 
+2016-06-03 17:51:28,657 INFO  [Log] Opening Browser 
+2016-06-03 17:52:04,269 INFO  [Log] Navigating to URL 
+2016-06-03 17:52:09,335 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 17:52:09,853 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 17:52:10,128 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 17:52:15,243 INFO  [Log] Click on Login button 
+2016-06-03 17:52:20,556 INFO  [Log] Home page is appear 
+2016-06-03 17:52:20,592 INFO  [Log] Click on Bidding link 
+2016-06-03 17:52:47,053 INFO  [Log] Creating order from backend 
+2016-06-03 17:52:48,059 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-03 17:52:58,275 INFO  [Log] Handling window 
+2016-06-03 17:53:07,057 INFO  [Log] Opening Auction URL to create order 
+2016-06-03 17:54:00,902 INFO  [Log] Opening Browser 
+2016-06-03 17:54:35,919 INFO  [Log] Navigating to URL 
+2016-06-03 17:54:41,036 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 17:54:41,540 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 17:54:41,797 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 17:54:46,899 INFO  [Log] Click on Login button 
+2016-06-03 17:54:52,087 INFO  [Log] Home page is appear 
+2016-06-03 17:54:52,106 INFO  [Log] Click on Bidding link 
+2016-06-03 17:55:21,240 INFO  [Log] Opening Browser 
+2016-06-03 17:55:56,863 INFO  [Log] Navigating to URL 
+2016-06-03 17:56:01,925 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 17:56:02,390 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 17:56:02,657 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 17:56:07,754 INFO  [Log] Click on Login button 
+2016-06-03 17:56:13,042 INFO  [Log] Home page is appear 
+2016-06-03 17:56:13,097 INFO  [Log] Click on Bidding link 
+2016-06-03 17:56:40,894 INFO  [Log] Creating order from backend 
+2016-06-03 17:56:40,899 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-03 17:56:40,993 INFO  [Log] Handling window 
+2016-06-03 17:56:46,005 INFO  [Log] Opening Auction URL to create order 
+2016-06-03 17:56:51,144 INFO  [Log] Filling orederId and searching created order 
+2016-06-03 17:56:58,767 INFO  [Log] New fram is appeared 
+2016-06-03 17:56:58,868 INFO  [Log] Closing running Auction 
+2016-06-03 17:56:58,880 INFO  [Log] Closing popup after creating order 
+2016-06-03 17:59:06,490 INFO  [Log] Opening Browser 
+2016-06-03 17:59:38,077 INFO  [Log] Navigating to URL 
+2016-06-03 17:59:43,177 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 17:59:43,740 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 17:59:43,990 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 17:59:49,078 INFO  [Log] Click on Login button 
+2016-06-03 17:59:54,396 INFO  [Log] Home page is appear 
+2016-06-03 17:59:54,455 INFO  [Log] Click on Bidding link 
+2016-06-03 18:00:15,889 INFO  [Log] Opening Browser 
+2016-06-03 18:01:07,024 INFO  [Log] Navigating to URL 
+2016-06-03 18:01:12,132 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 18:01:12,689 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 18:01:12,932 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 18:01:18,065 INFO  [Log] Click on Login button 
+2016-06-03 18:01:23,388 INFO  [Log] Home page is appear 
+2016-06-03 18:01:23,409 INFO  [Log] Click on Bidding link 
+2016-06-03 18:01:49,652 INFO  [Log] Creating order from backend 
+2016-06-03 18:01:50,939 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-03 18:02:14,173 INFO  [Log] Handling window 
+2016-06-03 18:02:38,456 INFO  [Log] Opening Browser 
+2016-06-03 18:04:09,690 INFO  [Log] Navigating to URL 
+2016-06-03 18:04:14,779 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 18:04:15,296 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 18:04:15,540 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 18:04:20,611 INFO  [Log] Click on Login button 
+2016-06-03 18:04:25,794 INFO  [Log] Home page is appear 
+2016-06-03 18:04:25,850 INFO  [Log] Click on Bidding link 
+2016-06-03 18:05:01,180 INFO  [Log] Creating order from backend 
+2016-06-03 18:05:02,377 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-03 18:05:12,548 INFO  [Log] Handling window 
+2016-06-03 18:06:26,703 INFO  [Log] Opening Browser 
+2016-06-03 18:07:02,161 INFO  [Log] Navigating to URL 
+2016-06-03 18:07:07,284 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 18:07:07,777 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 18:07:08,026 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 18:07:13,119 INFO  [Log] Click on Login button 
+2016-06-03 18:07:18,421 INFO  [Log] Home page is appear 
+2016-06-03 18:07:18,477 INFO  [Log] Click on Bidding link 
+2016-06-03 18:07:42,885 INFO  [Log] Creating order from backend 
+2016-06-03 18:07:42,902 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-03 18:07:43,099 INFO  [Log] Handling window 
+2016-06-03 18:07:53,542 INFO  [Log] Opening Auction URL to create order 
+2016-06-03 18:07:58,688 INFO  [Log] Filling orederId and searching created order 
+2016-06-03 18:08:08,401 INFO  [Log] New fram is appeared 
+2016-06-03 18:08:08,493 INFO  [Log] Closing running Auction 
+2016-06-03 18:08:08,497 INFO  [Log] Closing popup after creating order 
+2016-06-03 18:08:12,828 INFO  [Log] Closing Iframe 
+2016-06-03 18:08:15,953 INFO  [Log] Navigating to URL to search customer details  
+2016-06-03 18:09:15,535 INFO  [Log] Opening Browser 
+2016-06-03 18:09:51,546 INFO  [Log] Navigating to URL 
+2016-06-03 18:09:56,649 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 18:09:57,131 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 18:09:57,398 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 18:10:02,498 INFO  [Log] Click on Login button 
+2016-06-03 18:10:07,682 INFO  [Log] Home page is appear 
+2016-06-03 18:10:07,737 INFO  [Log] Click on Bidding link 
+2016-06-03 18:10:36,751 INFO  [Log] Creating order from backend 
+2016-06-03 18:10:37,815 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-03 18:10:48,463 INFO  [Log] Handling window 
+2016-06-03 18:11:11,255 INFO  [Log] Opening Auction URL to create order 
+2016-06-03 18:11:16,406 INFO  [Log] Filling orederId and searching created order 
+2016-06-03 18:11:33,280 INFO  [Log] Opening Browser 
+2016-06-03 18:12:09,773 INFO  [Log] Navigating to URL 
+2016-06-03 18:12:14,873 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 18:12:15,365 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 18:12:15,602 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 18:12:20,686 INFO  [Log] Click on Login button 
+2016-06-03 18:12:25,989 INFO  [Log] Home page is appear 
+2016-06-03 18:12:26,052 INFO  [Log] Click on Bidding link 
+2016-06-03 18:12:50,607 INFO  [Log] Creating order from backend 
+2016-06-03 18:12:50,623 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-03 18:12:50,761 INFO  [Log] Handling window 
+2016-06-03 18:12:59,258 INFO  [Log] Opening Auction URL to create order 
+2016-06-03 18:13:04,383 INFO  [Log] Filling orederId and searching created order 
+2016-06-03 18:13:12,572 INFO  [Log] New fram is appeared 
+2016-06-03 18:13:12,667 INFO  [Log] Closing running Auction 
+2016-06-03 18:13:12,672 INFO  [Log] Closing popup after creating order 
+2016-06-03 18:13:16,683 INFO  [Log] Closing Iframe 
+2016-06-03 18:13:19,804 INFO  [Log] Navigating to URL to search customer details  
+2016-06-03 18:13:37,506 INFO  [Log] Order is created 
+2016-06-03 18:13:45,988 INFO  [Log] Going to My order page 
+2016-06-03 18:13:56,616 INFO  [Log] Click on Order created link 
+2016-06-03 18:14:18,519 INFO  [Log] Click on Confirm order button 
+2016-06-03 18:14:21,600 INFO  [Log] Click on Submit order button 
+2016-06-03 18:14:21,657 INFO  [Log] Picking order id for payment 
+2016-06-03 18:14:32,712 INFO  [Log] Picking order Amount 
+2016-06-03 18:14:35,753 INFO  [Log] Click on Submit oder for delivery 
+2016-06-03 18:14:35,910 INFO  [Log] Opening new tab to manual payment 
+2016-06-03 18:14:41,052 INFO  [Log] Navigate to payment URL 
+2016-06-03 18:14:47,081 INFO  [Log] Filling orderId 
+2016-06-03 18:14:47,132 INFO  [Log] Filling Account number to payment 
+2016-06-03 18:14:47,942 INFO  [Log] Click on submit button 
+2016-06-03 18:14:48,032 INFO  [Log] Navigate to payment URL 
+2016-06-03 18:14:53,904 INFO  [Log] Filling orderId 
+2016-06-03 18:14:53,954 INFO  [Log] Filling Account number to payment 
+2016-06-03 18:14:54,774 INFO  [Log] Click on submit button 
+2016-06-03 18:15:06,123 INFO  [Log] Opening Browser 
+2016-06-03 18:18:26,811 INFO  [Log] Opening Browser 
+2016-06-03 18:19:08,853 INFO  [Log] Navigating to URL 
+2016-06-03 18:19:19,802 INFO  [Log] Home page is appear 
+2016-06-03 18:19:19,850 INFO  [Log] Click on Bidding link 
+2016-06-03 18:19:25,161 INFO  [Log] Creating order from backend 
+2016-06-03 18:19:25,176 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-03 18:19:25,357 INFO  [Log] Handling window 
+2016-06-03 18:20:12,871 INFO  [Log] Opening Auction URL to create order 
+2016-06-03 18:20:17,966 INFO  [Log] Filling orederId and searching created order 
+2016-06-03 18:20:45,260 INFO  [Log] Opening Browser 
+2016-06-03 18:21:25,682 INFO  [Log] Navigating to URL 
+2016-06-03 18:21:30,735 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 18:21:31,289 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 18:21:31,553 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 18:21:36,651 INFO  [Log] Click on Login button 
+2016-06-03 18:21:41,838 INFO  [Log] Home page is appear 
+2016-06-03 18:21:41,878 INFO  [Log] Click on Bidding link 
+2016-06-03 18:22:10,036 INFO  [Log] Creating order from backend 
+2016-06-03 18:22:16,120 INFO  [Log] Opening new tab to manual payment 
+2016-06-03 18:22:28,743 INFO  [Log] Opening Browser 
+2016-06-03 18:23:16,606 INFO  [Log] Navigating to URL 
+2016-06-03 18:23:21,693 INFO  [Log] Closing Popup displayed on screen 
+2016-06-03 18:23:22,172 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-03 18:23:22,417 INFO  [Log] Filling User credential Login and Password 
+2016-06-03 18:23:27,490 INFO  [Log] Click on Login button 
+2016-06-03 18:23:32,671 INFO  [Log] Home page is appear 
+2016-06-03 18:23:39,299 INFO  [Log] Click on Bidding link 
+2016-06-03 18:25:05,861 INFO  [Log] Creating order from backend 
+2016-06-03 18:25:05,875 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-03 18:25:05,985 INFO  [Log] Handling window 
+2016-06-03 18:25:29,356 INFO  [Log] Opening Auction URL to create order 
+2016-06-03 18:26:40,914 INFO  [Log] Opening new tab to manual payment 
+2016-06-03 18:26:46,014 INFO  [Log] Navigate to payment URL 
+2016-06-06 09:51:52,384 INFO  [Log] Opening Browser 
+2016-06-06 09:52:31,421 INFO  [Log] Navigating to URL 
+2016-06-06 09:52:36,480 INFO  [Log] Closing Popup displayed on screen 
+2016-06-06 09:52:36,785 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-06 09:52:37,453 INFO  [Log] Filling User credential Login and Password 
+2016-06-06 09:52:42,508 INFO  [Log] Click on Login button 
+2016-06-06 09:52:47,696 INFO  [Log] Home page is appear 
+2016-06-06 09:52:52,335 INFO  [Log] Click on Bidding link 
+2016-06-06 09:53:19,095 INFO  [Log] Creating order from backend 
+2016-06-06 09:53:19,099 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-06 09:53:19,190 INFO  [Log] Handling window 
+2016-06-06 09:53:52,312 INFO  [Log] Opening Auction URL to create order 
+2016-06-06 09:53:57,415 INFO  [Log] Filling orederId and searching created order 
+2016-06-06 09:54:06,730 INFO  [Log] New fram is appeared 
+2016-06-06 09:54:06,808 INFO  [Log] Closing running Auction 
+2016-06-06 09:54:06,822 INFO  [Log] Closing popup after creating order 
+2016-06-06 09:54:11,042 INFO  [Log] Closing Iframe 
+2016-06-06 09:54:14,164 INFO  [Log] Navigating to URL to search customer details  
+2016-06-06 09:54:32,427 INFO  [Log] Order is created 
+2016-06-06 09:56:30,753 INFO  [Log] Opening Browser 
+2016-06-06 09:57:06,461 INFO  [Log] Navigating to URL 
+2016-06-06 09:57:11,518 INFO  [Log] Closing Popup displayed on screen 
+2016-06-06 09:57:11,851 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-06 09:57:12,109 INFO  [Log] Filling User credential Login and Password 
+2016-06-06 09:57:17,166 INFO  [Log] Click on Login button 
+2016-06-06 09:57:22,320 INFO  [Log] Home page is appear 
+2016-06-06 09:57:22,343 INFO  [Log] Click on Bidding link 
+2016-06-06 09:57:47,147 INFO  [Log] Creating order from backend 
+2016-06-06 09:57:47,151 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-06 09:57:47,241 INFO  [Log] Handling window 
+2016-06-06 09:57:59,954 INFO  [Log] Opening Auction URL to create order 
+2016-06-06 09:58:05,107 INFO  [Log] Filling orederId and searching created order 
+2016-06-06 09:58:12,425 INFO  [Log] New fram is appeared 
+2016-06-06 09:58:12,520 INFO  [Log] Closing running Auction 
+2016-06-06 09:58:12,526 INFO  [Log] Closing popup after creating order 
+2016-06-06 09:58:16,431 INFO  [Log] Closing Iframe 
+2016-06-06 09:58:19,569 INFO  [Log] Navigating to URL to search customer details  
+2016-06-06 09:58:33,697 INFO  [Log] Order is created 
+2016-06-06 09:58:39,756 INFO  [Log] Going to My order page 
+2016-06-06 09:58:49,259 INFO  [Log] Click on Order created link 
+2016-06-06 09:58:56,540 INFO  [Log] Click on Confirm order button 
+2016-06-06 09:58:59,617 INFO  [Log] Click on Submit order button 
+2016-06-06 09:58:59,653 INFO  [Log] Picking order id for payment 
+2016-06-06 09:59:09,682 INFO  [Log] Picking order Amount 
+2016-06-06 09:59:12,731 INFO  [Log] Click on Submit oder for delivery 
+2016-06-06 09:59:12,859 INFO  [Log] Opening new tab to manual payment 
+2016-06-06 09:59:17,949 INFO  [Log] Navigate to payment URL 
+2016-06-06 09:59:24,468 INFO  [Log] Filling orderId 
+2016-06-06 09:59:24,518 INFO  [Log] Filling Account number to payment 
+2016-06-06 09:59:25,365 INFO  [Log] Click on submit button 
+2016-06-06 09:59:25,452 INFO  [Log] Navigate to payment URL 
+2016-06-06 10:00:12,887 INFO  [Log] Opening Browser 
+2016-06-06 10:00:45,509 INFO  [Log] Navigating to URL 
+2016-06-06 10:00:50,560 INFO  [Log] Closing Popup displayed on screen 
+2016-06-06 10:00:50,887 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-06 10:00:51,148 INFO  [Log] Filling User credential Login and Password 
+2016-06-06 10:00:56,208 INFO  [Log] Click on Login button 
+2016-06-06 10:01:01,366 INFO  [Log] Home page is appear 
+2016-06-06 10:01:01,383 INFO  [Log] Click on Bidding link 
+2016-06-06 10:01:26,604 INFO  [Log] Creating order from backend 
+2016-06-06 10:01:26,608 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-06 10:01:26,706 INFO  [Log] Handling window 
+2016-06-06 10:01:37,802 INFO  [Log] Opening Auction URL to create order 
+2016-06-06 10:01:42,910 INFO  [Log] Filling orederId and searching created order 
+2016-06-06 10:01:51,859 INFO  [Log] New fram is appeared 
+2016-06-06 10:01:51,941 INFO  [Log] Closing running Auction 
+2016-06-06 10:01:51,948 INFO  [Log] Closing popup after creating order 
+2016-06-06 10:01:55,854 INFO  [Log] Closing Iframe 
+2016-06-06 10:01:58,981 INFO  [Log] Navigating to URL to search customer details  
+2016-06-06 10:02:13,970 INFO  [Log] Order is created 
+2016-06-06 10:02:22,861 INFO  [Log] Going to My order page 
+2016-06-06 10:02:31,304 INFO  [Log] Click on Order created link 
+2016-06-06 10:02:34,517 INFO  [Log] Click on Confirm order button 
+2016-06-06 10:03:25,606 INFO  [Log] Opening new tab to manual payment 
+2016-06-06 10:03:30,795 INFO  [Log] Navigate to payment URL 
+2016-06-06 10:05:54,681 INFO  [Log] Opening Browser 
+2016-06-06 10:06:28,658 INFO  [Log] Navigating to URL 
+2016-06-06 10:06:33,710 INFO  [Log] Closing Popup displayed on screen 
+2016-06-06 10:06:34,030 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-06 10:06:34,319 INFO  [Log] Filling User credential Login and Password 
+2016-06-06 10:06:39,374 INFO  [Log] Click on Login button 
+2016-06-06 10:06:44,530 INFO  [Log] Home page is appear 
+2016-06-06 10:06:59,661 INFO  [Log] Creating order from backend 
+2016-06-06 10:06:59,666 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-06 10:06:59,754 INFO  [Log] Handling window 
+2016-06-06 10:07:11,233 INFO  [Log] Opening Auction URL to create order 
+2016-06-06 10:07:16,343 INFO  [Log] Filling orederId and searching created order 
+2016-06-06 10:07:41,159 INFO  [Log] Opening new tab to manual payment 
+2016-06-06 10:07:46,267 INFO  [Log] Navigate to payment URL 
+2016-06-06 10:15:22,942 INFO  [Log] Opening Browser 
+2016-06-06 10:16:01,268 INFO  [Log] Navigating to URL 
+2016-06-06 10:16:06,322 INFO  [Log] Closing Popup displayed on screen 
+2016-06-06 10:16:06,660 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-06 10:16:07,010 INFO  [Log] Filling User credential Login and Password 
+2016-06-06 10:16:12,065 INFO  [Log] Click on Login button 
+2016-06-06 10:16:17,220 INFO  [Log] Home page is appear 
+2016-06-06 10:16:17,238 INFO  [Log] Click on Bidding link 
+2016-06-06 10:16:36,965 INFO  [Log] Creating order from backend 
+2016-06-06 10:16:36,970 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-06 10:16:37,480 INFO  [Log] Handling window 
+2016-06-06 10:16:47,788 INFO  [Log] Opening Auction URL to create order 
+2016-06-06 10:16:52,889 INFO  [Log] Filling orederId and searching created order 
+2016-06-06 10:17:01,573 INFO  [Log] New fram is appeared 
+2016-06-06 10:17:01,655 INFO  [Log] Closing running Auction 
+2016-06-06 10:17:01,661 INFO  [Log] Closing popup after creating order 
+2016-06-06 10:17:05,495 INFO  [Log] Closing Iframe 
+2016-06-06 10:17:08,620 INFO  [Log] Navigating to URL to search customer details  
+2016-06-06 10:17:23,010 INFO  [Log] Order is created 
+2016-06-06 10:17:31,039 INFO  [Log] Going to My order page 
+2016-06-06 10:17:58,008 INFO  [Log] Opening new tab to manual payment 
+2016-06-07 14:23:43,959 INFO  [Log] Opening Browser 
+2016-06-07 14:24:13,742 INFO  [Log] Navigating to URL 
+2016-06-07 14:24:18,968 INFO  [Log] Closing Popup displayed on screen 
+2016-06-07 14:24:19,467 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-07 14:24:19,828 INFO  [Log] Filling User credential Login and Password 
+2016-06-07 14:24:24,975 INFO  [Log] Click on Login button 
+2016-06-07 14:24:30,158 INFO  [Log] Home page is appear 
+2016-06-07 14:24:32,032 INFO  [Log] Click on Bidding link 
+2016-06-07 14:24:57,887 INFO  [Log] Creating order from backend 
+2016-06-07 14:24:57,893 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-07 14:24:58,053 INFO  [Log] Handling window 
+2016-06-07 14:25:41,508 INFO  [Log] Opening Auction URL to create order 
+2016-06-07 14:25:46,404 INFO  [Log] Filling orederId and searching created order 
+2016-06-07 14:25:56,704 INFO  [Log] New fram is appeared 
+2016-06-07 14:25:56,922 INFO  [Log] Closing running Auction 
+2016-06-07 14:25:56,930 INFO  [Log] Closing popup after creating order 
+2016-06-07 14:26:01,209 INFO  [Log] Closing Iframe 
+2016-06-07 14:26:04,339 INFO  [Log] Navigating to URL to search customer details  
+2016-06-07 14:26:26,071 INFO  [Log] Order is created 
+2016-06-07 14:26:36,774 INFO  [Log] Going to My order page 
+2016-06-07 14:26:57,473 INFO  [Log] Click on Order created link 
+2016-06-07 14:27:05,017 INFO  [Log] Click on Confirm order button 
+2016-06-07 14:27:08,110 INFO  [Log] Click on Submit order button 
+2016-06-07 14:27:08,164 INFO  [Log] Picking order id for payment 
+2016-06-07 14:27:18,913 INFO  [Log] Picking order Amount 
+2016-06-07 14:27:21,966 INFO  [Log] Click on Submit oder for delivery 
+2016-06-07 14:27:22,144 INFO  [Log] Opening new tab to manual payment 
+2016-06-07 14:27:27,322 INFO  [Log] Navigate to payment URL 
+2016-06-07 14:27:34,017 INFO  [Log] Filling orderId 
+2016-06-07 14:27:34,065 INFO  [Log] Filling Account number to payment 
+2016-06-07 14:27:34,877 INFO  [Log] Click on submit button 
+2016-06-07 15:08:59,778 INFO  [Log] Opening Browser 
+2016-06-07 15:09:40,290 INFO  [Log] Navigating to URL 
+2016-06-07 15:09:45,386 INFO  [Log] Closing Popup displayed on screen 
+2016-06-07 15:09:45,997 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-07 15:09:46,248 INFO  [Log] Filling User credential Login and Password 
+2016-06-07 15:09:51,355 INFO  [Log] Click on Login button 
+2016-06-07 15:09:56,544 INFO  [Log] Home page is appear 
+2016-06-07 15:09:58,308 INFO  [Log] Click on Bidding link 
+2016-06-07 15:10:36,370 INFO  [Log] Opening Browser 
+2016-06-07 15:11:13,177 INFO  [Log] Navigating to URL 
+2016-06-07 15:11:18,265 INFO  [Log] Closing Popup displayed on screen 
+2016-06-07 15:11:18,762 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-07 15:11:19,053 INFO  [Log] Filling User credential Login and Password 
+2016-06-07 15:11:24,159 INFO  [Log] Click on Login button 
+2016-06-07 15:11:29,489 INFO  [Log] Home page is appear 
+2016-06-07 15:11:29,549 INFO  [Log] Click on Bidding link 
+2016-06-07 15:12:03,077 INFO  [Log] Opening Browser 
+2016-06-07 15:12:37,533 INFO  [Log] Navigating to URL 
+2016-06-07 15:12:42,644 INFO  [Log] Closing Popup displayed on screen 
+2016-06-07 15:12:43,131 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-07 15:12:43,416 INFO  [Log] Filling User credential Login and Password 
+2016-06-07 15:12:48,513 INFO  [Log] Click on Login button 
+2016-06-07 15:12:53,804 INFO  [Log] Home page is appear 
+2016-06-07 15:12:53,848 INFO  [Log] Click on Bidding link 
+2016-06-07 15:13:33,272 INFO  [Log] Opening Browser 
+2016-06-07 15:14:13,149 INFO  [Log] Navigating to URL 
+2016-06-07 15:14:18,244 INFO  [Log] Closing Popup displayed on screen 
+2016-06-07 15:14:18,842 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-07 15:14:19,091 INFO  [Log] Filling User credential Login and Password 
+2016-06-07 15:14:24,181 INFO  [Log] Click on Login button 
+2016-06-07 15:14:29,488 INFO  [Log] Home page is appear 
+2016-06-07 15:14:34,380 INFO  [Log] Click on Bidding link 
+2016-06-07 15:15:06,720 INFO  [Log] Creating order from backend 
+2016-06-07 15:15:20,168 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-07 15:16:48,671 INFO  [Log] Handling window 
+2016-06-07 15:17:51,791 INFO  [Log] Opening Auction URL to create order 
+2016-06-07 15:17:56,940 INFO  [Log] Filling orederId and searching created order 
+2016-06-07 15:18:53,846 INFO  [Log] Opening new tab to manual payment 
+2016-06-07 15:18:59,008 INFO  [Log] Navigate to payment URL 
+2016-06-07 15:20:34,935 INFO  [Log] Opening Browser 
+2016-06-07 15:21:09,041 INFO  [Log] Navigating to URL 
+2016-06-07 15:21:14,157 INFO  [Log] Closing Popup displayed on screen 
+2016-06-07 15:21:14,747 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-07 15:21:15,021 INFO  [Log] Filling User credential Login and Password 
+2016-06-07 15:21:20,112 INFO  [Log] Click on Login button 
+2016-06-07 15:21:25,294 INFO  [Log] Home page is appear 
+2016-06-07 15:21:25,353 INFO  [Log] Click on Bidding link 
+2016-06-07 15:21:38,410 INFO  [Log] Creating order from backend 
+2016-06-07 15:21:39,634 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-07 15:24:00,184 INFO  [Log] Handling window 
+2016-06-07 15:28:29,090 INFO  [Log] Opening Browser 
+2016-06-07 15:29:03,038 INFO  [Log] Navigating to URL 
+2016-06-07 15:29:08,098 INFO  [Log] Closing Popup displayed on screen 
+2016-06-07 15:29:08,600 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-07 15:29:08,893 INFO  [Log] Filling User credential Login and Password 
+2016-06-07 15:29:13,953 INFO  [Log] Click on Login button 
+2016-06-07 15:29:19,279 INFO  [Log] Home page is appear 
+2016-06-07 15:29:19,298 INFO  [Log] Click on Bidding link 
+2016-06-07 15:29:45,649 INFO  [Log] Creating order from backend 
+2016-06-07 15:29:46,945 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-07 15:29:57,544 INFO  [Log] Handling window 
+2016-06-07 15:30:31,444 INFO  [Log] Opening Auction URL to create order 
+2016-06-07 15:31:30,374 INFO  [Log] Opening Browser 
+2016-06-07 15:32:07,417 INFO  [Log] Navigating to URL 
+2016-06-07 15:32:12,477 INFO  [Log] Closing Popup displayed on screen 
+2016-06-07 15:32:12,996 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-07 15:32:13,322 INFO  [Log] Filling User credential Login and Password 
+2016-06-07 15:32:18,386 INFO  [Log] Click on Login button 
+2016-06-07 15:32:23,585 INFO  [Log] Home page is appear 
+2016-06-07 15:32:23,604 INFO  [Log] Click on Bidding link 
+2016-06-07 15:32:47,699 INFO  [Log] Creating order from backend 
+2016-06-07 15:32:48,940 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-07 15:32:59,507 INFO  [Log] Handling window 
+2016-06-07 15:33:13,932 INFO  [Log] Opening Auction URL to create order 
+2016-06-07 15:34:03,187 INFO  [Log] Opening Browser 
+2016-06-07 15:34:37,970 INFO  [Log] Navigating to URL 
+2016-06-07 15:34:43,049 INFO  [Log] Closing Popup displayed on screen 
+2016-06-07 15:34:43,540 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-07 15:34:43,821 INFO  [Log] Filling User credential Login and Password 
+2016-06-07 15:34:48,923 INFO  [Log] Click on Login button 
+2016-06-07 15:34:54,126 INFO  [Log] Home page is appear 
+2016-06-07 15:34:54,181 INFO  [Log] Click on Bidding link 
+2016-06-07 15:35:31,368 INFO  [Log] Creating order from backend 
+2016-06-07 15:35:31,376 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-07 15:35:32,614 INFO  [Log] Handling window 
+2016-06-07 15:35:37,273 INFO  [Log] Opening Auction URL to create order 
+2016-06-07 15:35:59,219 INFO  [Log] Opening Browser 
+2016-06-07 15:36:34,452 INFO  [Log] Navigating to URL 
+2016-06-07 15:36:39,555 INFO  [Log] Closing Popup displayed on screen 
+2016-06-07 15:36:40,152 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-07 15:36:40,409 INFO  [Log] Filling User credential Login and Password 
+2016-06-07 15:36:45,508 INFO  [Log] Click on Login button 
+2016-06-07 15:36:50,694 INFO  [Log] Home page is appear 
+2016-06-07 15:36:50,754 INFO  [Log] Click on Bidding link 
+2016-06-07 15:37:10,202 INFO  [Log] Creating order from backend 
+2016-06-07 15:37:10,207 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-07 15:37:10,530 INFO  [Log] Handling window 
+2016-06-07 15:37:20,838 INFO  [Log] Opening Auction URL to create order 
+2016-06-07 15:37:25,994 INFO  [Log] Filling orederId and searching created order 
+2016-06-07 15:37:35,136 INFO  [Log] New fram is appeared 
+2016-06-07 15:37:35,231 INFO  [Log] Closing running Auction 
+2016-06-07 15:37:35,237 INFO  [Log] Closing popup after creating order 
+2016-06-07 15:37:47,384 INFO  [Log] Opening Browser 
+2016-06-07 15:38:20,171 INFO  [Log] Navigating to URL 
+2016-06-07 15:38:25,286 INFO  [Log] Closing Popup displayed on screen 
+2016-06-07 15:38:25,742 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-07 15:38:26,089 INFO  [Log] Filling User credential Login and Password 
+2016-06-07 15:38:31,188 INFO  [Log] Click on Login button 
+2016-06-07 15:38:36,379 INFO  [Log] Home page is appear 
+2016-06-07 15:38:36,400 INFO  [Log] Click on Bidding link 
+2016-06-07 15:39:01,675 INFO  [Log] Creating order from backend 
+2016-06-07 15:39:01,680 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-07 15:39:11,264 INFO  [Log] Opening Browser 
+2016-06-07 15:39:51,890 INFO  [Log] Navigating to URL 
+2016-06-07 15:39:56,984 INFO  [Log] Closing Popup displayed on screen 
+2016-06-07 15:39:57,466 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-07 15:39:57,737 INFO  [Log] Filling User credential Login and Password 
+2016-06-07 15:40:02,841 INFO  [Log] Click on Login button 
+2016-06-07 15:40:08,029 INFO  [Log] Home page is appear 
+2016-06-07 15:40:12,745 INFO  [Log] Click on Bidding link 
+2016-06-07 15:40:40,870 INFO  [Log] Creating order from backend 
+2016-06-07 15:40:40,874 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-07 15:40:41,237 INFO  [Log] Handling window 
+2016-06-07 15:40:55,204 INFO  [Log] Opening Auction URL to create order 
+2016-06-07 15:41:00,355 INFO  [Log] Filling orederId and searching created order 
+2016-06-07 15:41:13,242 INFO  [Log] New fram is appeared 
+2016-06-07 15:41:13,337 INFO  [Log] Closing running Auction 
+2016-06-07 15:41:13,341 INFO  [Log] Closing popup after creating order 
+2016-06-07 15:41:17,627 INFO  [Log] Closing Iframe 
+2016-06-07 15:41:20,825 INFO  [Log] Navigating to URL to search customer details  
+2016-06-07 15:41:50,665 INFO  [Log] Opening new tab to manual payment 
+2016-06-07 15:41:55,803 INFO  [Log] Navigate to payment URL 
+2016-06-07 15:46:05,553 INFO  [Log] Opening Browser 
+2016-06-07 15:46:45,830 INFO  [Log] Navigating to URL 
+2016-06-07 15:46:50,930 INFO  [Log] Closing Popup displayed on screen 
+2016-06-07 15:46:51,423 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-07 15:46:51,691 INFO  [Log] Filling User credential Login and Password 
+2016-06-07 15:46:56,791 INFO  [Log] Click on Login button 
+2016-06-07 15:47:02,055 INFO  [Log] Home page is appear 
+2016-06-07 15:47:05,928 INFO  [Log] Click on Bidding link 
+2016-06-07 15:47:41,497 INFO  [Log] Creating order from backend 
+2016-06-07 15:47:41,502 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-07 15:47:41,584 INFO  [Log] Handling window 
+2016-06-07 15:47:54,245 INFO  [Log] Opening Auction URL to create order 
+2016-06-07 15:47:59,420 INFO  [Log] Filling orederId and searching created order 
+2016-06-07 15:48:11,250 INFO  [Log] New fram is appeared 
+2016-06-07 15:48:11,330 INFO  [Log] Closing running Auction 
+2016-06-07 15:48:11,340 INFO  [Log] Closing popup after creating order 
+2016-06-07 15:48:15,671 INFO  [Log] Closing Iframe 
+2016-06-07 15:48:18,796 INFO  [Log] Navigating to URL to search customer details  
+2016-06-07 15:57:54,546 INFO  [Log] Opening Browser 
+2016-06-07 15:58:29,323 INFO  [Log] Navigating to URL 
+2016-06-07 15:58:34,439 INFO  [Log] Closing Popup displayed on screen 
+2016-06-07 15:58:34,900 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-07 15:58:35,201 INFO  [Log] Filling User credential Login and Password 
+2016-06-07 15:58:40,307 INFO  [Log] Click on Login button 
+2016-06-07 15:58:45,470 INFO  [Log] Home page is appear 
+2016-06-07 15:58:45,522 INFO  [Log] Click on Bidding link 
+2016-06-07 15:59:07,325 INFO  [Log] Creating order from backend 
+2016-06-07 15:59:08,797 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-07 15:59:25,852 INFO  [Log] Handling window 
+2016-06-07 16:00:11,417 INFO  [Log] Opening Browser 
+2016-06-07 16:00:45,043 INFO  [Log] Navigating to URL 
+2016-06-07 16:00:50,132 INFO  [Log] Closing Popup displayed on screen 
+2016-06-07 16:00:50,591 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-07 16:00:50,959 INFO  [Log] Filling User credential Login and Password 
+2016-06-07 16:00:56,141 INFO  [Log] Click on Login button 
+2016-06-07 16:01:01,447 INFO  [Log] Home page is appear 
+2016-06-07 16:01:01,521 INFO  [Log] Click on Bidding link 
+2016-06-07 16:01:24,716 INFO  [Log] Opening Browser 
+2016-06-07 16:02:01,084 INFO  [Log] Navigating to URL 
+2016-06-07 16:02:06,162 INFO  [Log] Closing Popup displayed on screen 
+2016-06-07 16:02:06,588 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-07 16:02:06,877 INFO  [Log] Filling User credential Login and Password 
+2016-06-07 16:02:11,972 INFO  [Log] Click on Login button 
+2016-06-07 16:02:17,275 INFO  [Log] Home page is appear 
+2016-06-07 16:02:17,330 INFO  [Log] Click on Bidding link 
+2016-06-07 16:02:37,293 INFO  [Log] Creating order from backend 
+2016-06-07 16:02:37,298 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-07 16:02:37,640 INFO  [Log] Handling window 
+2016-06-07 16:02:48,907 INFO  [Log] Opening Auction URL to create order 
+2016-06-07 16:02:54,073 INFO  [Log] Filling orederId and searching created order 
+2016-06-07 16:03:03,066 INFO  [Log] New fram is appeared 
+2016-06-07 16:03:03,169 INFO  [Log] Closing running Auction 
+2016-06-07 16:03:03,175 INFO  [Log] Closing popup after creating order 
+2016-06-07 16:03:07,007 INFO  [Log] Closing Iframe 
+2016-06-07 16:03:10,183 INFO  [Log] Navigating to URL to search customer details  
+2016-06-07 16:03:25,249 INFO  [Log] Order is created 
+2016-06-07 16:03:33,139 INFO  [Log] Going to My order page 
+2016-06-07 16:03:47,177 INFO  [Log] Click on Order created link 
+2016-06-07 16:04:07,050 INFO  [Log] Opening Browser 
+2016-06-07 16:04:44,525 INFO  [Log] Navigating to URL 
+2016-06-07 16:04:49,575 INFO  [Log] Closing Popup displayed on screen 
+2016-06-07 16:04:50,153 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-07 16:04:50,395 INFO  [Log] Filling User credential Login and Password 
+2016-06-07 16:04:55,450 INFO  [Log] Click on Login button 
+2016-06-07 16:05:00,623 INFO  [Log] Home page is appear 
+2016-06-07 16:05:00,642 INFO  [Log] Click on Bidding link 
+2016-06-07 16:05:28,158 INFO  [Log] Creating order from backend 
+2016-06-07 16:05:28,164 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-07 16:05:28,507 INFO  [Log] Handling window 
+2016-06-07 16:05:37,012 INFO  [Log] Opening Auction URL to create order 
+2016-06-07 16:05:42,189 INFO  [Log] Filling orederId and searching created order 
+2016-06-07 16:05:50,961 INFO  [Log] New fram is appeared 
+2016-06-07 16:05:51,053 INFO  [Log] Closing running Auction 
+2016-06-07 16:05:51,059 INFO  [Log] Closing popup after creating order 
+2016-06-07 16:05:54,873 INFO  [Log] Closing Iframe 
+2016-06-07 16:05:57,992 INFO  [Log] Navigating to URL to search customer details  
+2016-06-07 16:06:13,499 INFO  [Log] Order is created 
+2016-06-07 16:06:22,255 INFO  [Log] Going to My order page 
+2016-06-07 16:06:33,639 INFO  [Log] Click on Order created link 
+2016-06-07 16:06:41,898 INFO  [Log] Click on Confirm order button 
+2016-06-07 16:06:44,980 INFO  [Log] Click on Submit order button 
+2016-06-07 16:06:45,038 INFO  [Log] Picking order id for payment 
+2016-06-07 16:06:56,680 INFO  [Log] Picking order Amount 
+2016-06-07 16:06:59,722 INFO  [Log] Click on Submit oder for delivery 
+2016-06-07 16:06:59,963 INFO  [Log] Opening new tab to manual payment 
+2016-06-07 16:07:05,094 INFO  [Log] Navigate to payment URL 
+2016-06-07 16:07:11,135 INFO  [Log] Filling orderId 
+2016-06-07 16:07:11,184 INFO  [Log] Filling Account number to payment 
+2016-06-07 16:07:12,401 INFO  [Log] Click on submit button 
+2016-06-07 16:27:02,913 INFO  [Log] Opening Browser 
+2016-06-07 16:27:38,446 INFO  [Log] Navigating to URL 
+2016-06-07 16:27:43,571 INFO  [Log] Closing Popup displayed on screen 
+2016-06-07 16:27:46,304 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-07 16:27:46,899 INFO  [Log] Filling User credential Login and Password 
+2016-06-07 16:27:52,510 INFO  [Log] Click on Login button 
+2016-06-07 16:27:59,573 INFO  [Log] Home page is appear 
+2016-06-07 16:27:59,601 INFO  [Log] Click on Bidding link 
+2016-06-07 16:28:38,801 INFO  [Log] Opening Browser 
+2016-06-07 16:29:04,341 INFO  [Log] Navigating to URL 
+2016-06-07 16:29:09,497 INFO  [Log] Closing Popup displayed on screen 
+2016-06-07 16:29:12,242 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-07 16:29:13,167 INFO  [Log] Filling User credential Login and Password 
+2016-06-07 16:29:18,798 INFO  [Log] Click on Login button 
+2016-06-07 16:29:25,864 INFO  [Log] Home page is appear 
+2016-06-07 16:29:25,929 INFO  [Log] Click on Bidding link 
+2016-06-07 16:29:47,074 INFO  [Log] Creating order from backend 
+2016-06-07 16:29:47,080 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-07 16:29:47,366 INFO  [Log] Handling window 
+2016-06-07 16:29:47,366 INFO  [Log] Opening Auction URL to create order 
+2016-06-07 16:30:02,710 INFO  [Log] Opening new tab to manual payment 
+2016-06-07 16:41:14,208 INFO  [Log] Opening Browser 
+2016-06-07 16:41:52,033 INFO  [Log] Navigating to URL 
+2016-06-07 16:41:57,120 INFO  [Log] Closing Popup displayed on screen 
+2016-06-07 16:41:59,372 INFO  [Log] Click on Register Link to register new User 
+2016-06-07 16:42:06,249 INFO  [Log] Filling all the user details to Register 
+2016-06-07 16:42:09,413 INFO  [Log] Checking Register button status 
+2016-06-07 16:42:11,044 INFO  [Log] Click on Register button and submitting details for Registration  
+2016-06-07 16:42:28,290 INFO  [Log] Filling Verification code from Database 
+2016-06-07 16:42:31,381 INFO  [Log] Click on Verification button and move to home page 
+2016-06-07 16:42:36,559 INFO  [Log] Goto My side page and checking for Logout button 
+2016-06-07 16:42:42,111 INFO  [Log] Click on Logout button 
+2016-06-07 16:42:42,418 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-07 16:42:42,703 INFO  [Log] Filling User credential Login and Password 
+2016-06-07 16:42:47,793 INFO  [Log] Click on Login button 
+2016-06-07 16:42:52,961 INFO  [Log] Home page is appear 
+2016-06-07 16:42:53,027 INFO  [Log] Click on Bidding link 
+2016-06-07 16:43:17,955 INFO  [Log] Creating order from backend 
+2016-06-07 16:43:17,960 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-07 16:43:18,046 INFO  [Log] Handling window 
+2016-06-07 16:43:39,310 INFO  [Log] Opening Auction URL to create order 
+2016-06-07 16:43:44,456 INFO  [Log] Filling orederId and searching created order 
+2016-06-07 16:43:54,088 INFO  [Log] New fram is appeared 
+2016-06-07 16:43:54,177 INFO  [Log] Closing running Auction 
+2016-06-07 16:43:54,182 INFO  [Log] Closing popup after creating order 
+2016-06-07 16:43:58,355 INFO  [Log] Closing Iframe 
+2016-06-07 16:44:01,478 INFO  [Log] Navigating to URL to search customer details  
+2016-06-07 16:44:18,915 INFO  [Log] Order is created 
+2016-06-07 16:44:27,644 INFO  [Log] Going to My order page 
+2016-06-07 16:44:41,601 INFO  [Log] Opening new tab to manual payment 
+2016-06-07 16:44:46,725 INFO  [Log] Navigate to payment URL 
+2016-06-07 16:52:16,247 INFO  [Log] Opening Browser 
+2016-06-07 16:52:53,864 INFO  [Log] Navigating to URL 
+2016-06-07 16:52:58,965 INFO  [Log] Closing Popup displayed on screen 
+2016-06-07 16:53:01,390 INFO  [Log] Click on Register Link to register new User 
+2016-06-07 16:53:07,533 INFO  [Log] Filling all the user details to Register 
+2016-06-07 16:53:10,654 INFO  [Log] Checking Register button status 
+2016-06-07 16:53:11,985 INFO  [Log] Click on Register button and submitting details for Registration  
+2016-06-07 16:53:49,581 INFO  [Log] Opening Browser 
+2016-06-07 16:53:52,183 INFO  [Log] Home page is appear 
+2016-06-07 16:53:56,271 INFO  [Log] Creating order from backend 
+2016-06-07 16:54:02,361 INFO  [Log] Opening new tab to manual payment 
+2016-06-07 16:54:26,926 INFO  [Log] Navigating to URL 
+2016-06-07 16:54:32,022 INFO  [Log] Closing Popup displayed on screen 
+2016-06-07 16:54:34,286 INFO  [Log] Click on Register Link to register new User 
+2016-06-07 16:54:40,470 INFO  [Log] Filling all the user details to Register 
+2016-06-07 16:54:43,627 INFO  [Log] Checking Register button status 
+2016-06-07 16:54:45,033 INFO  [Log] Click on Register button and submitting details for Registration  
+2016-06-07 16:55:23,136 INFO  [Log] Home page is appear 
+2016-06-07 16:55:27,159 INFO  [Log] Creating order from backend 
+2016-06-07 16:55:33,226 INFO  [Log] Opening new tab to manual payment 
+2016-06-07 16:55:37,822 INFO  [Log] Opening Browser 
+2016-06-07 16:56:17,350 INFO  [Log] Navigating to URL 
+2016-06-07 16:56:22,461 INFO  [Log] Closing Popup displayed on screen 
+2016-06-07 16:56:24,662 INFO  [Log] Click on Register Link to register new User 
+2016-06-07 16:56:30,862 INFO  [Log] Filling all the user details to Register 
+2016-06-07 16:56:34,022 INFO  [Log] Checking Register button status 
+2016-06-07 16:56:35,374 INFO  [Log] Click on Register button and submitting details for Registration  
+2016-06-07 16:57:23,152 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-07 16:57:23,315 INFO  [Log] Filling User credential Login and Password 
+2016-06-07 16:57:28,411 INFO  [Log] Click on Login button 
+2016-06-07 16:57:33,531 INFO  [Log] Home page is appear 
+2016-06-07 16:57:33,567 INFO  [Log] Click on Bidding link 
+2016-06-07 16:57:55,734 INFO  [Log] Creating order from backend 
+2016-06-07 16:57:55,740 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-07 16:57:55,827 INFO  [Log] Handling window 
+2016-06-07 16:58:01,150 INFO  [Log] Opening Auction URL to create order 
+2016-06-07 16:58:16,454 INFO  [Log] Opening new tab to manual payment 
+2016-06-07 16:58:21,509 INFO  [Log] Navigate to payment URL 
+2016-06-07 17:01:01,305 INFO  [Log] Opening Browser 
+2016-06-07 17:01:36,854 INFO  [Log] Navigating to URL 
+2016-06-07 17:01:41,951 INFO  [Log] Closing Popup displayed on screen 
+2016-06-07 17:01:43,967 INFO  [Log] Click on Register Link to register new User 
+2016-06-07 17:01:50,378 INFO  [Log] Filling all the user details to Register 
+2016-06-07 17:01:53,534 INFO  [Log] Checking Register button status 
+2016-06-07 17:01:55,060 INFO  [Log] Click on Register button and submitting details for Registration  
+2016-06-07 17:02:12,026 INFO  [Log] Filling Verification code from Database 
+2016-06-07 17:02:15,129 INFO  [Log] Click on Verification button and move to home page 
+2016-06-07 17:02:20,311 INFO  [Log] Goto My side page and checking for Logout button 
+2016-06-07 17:02:26,922 INFO  [Log] Click on Logout button 
+2016-06-07 17:02:27,250 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-07 17:02:27,516 INFO  [Log] Filling User credential Login and Password 
+2016-06-07 17:02:32,613 INFO  [Log] Click on Login button 
+2016-06-07 17:02:37,779 INFO  [Log] Home page is appear 
+2016-06-07 17:02:37,818 INFO  [Log] Click on Bidding link 
+2016-06-07 17:02:58,394 INFO  [Log] Creating order from backend 
+2016-06-07 17:02:58,398 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-07 17:02:58,487 INFO  [Log] Handling window 
+2016-06-07 17:03:09,742 INFO  [Log] Opening Auction URL to create order 
+2016-06-07 17:03:14,847 INFO  [Log] Filling orederId and searching created order 
+2016-06-07 17:03:24,372 INFO  [Log] New fram is appeared 
+2016-06-07 17:03:24,455 INFO  [Log] Closing running Auction 
+2016-06-07 17:03:24,460 INFO  [Log] Closing popup after creating order 
+2016-06-07 17:03:28,297 INFO  [Log] Closing Iframe 
+2016-06-07 17:03:31,423 INFO  [Log] Navigating to URL to search customer details  
+2016-06-07 17:03:47,834 INFO  [Log] Order is created 
+2016-06-07 17:03:56,115 INFO  [Log] Going to My order page 
+2016-06-07 17:04:04,880 INFO  [Log] Click on Order created link 
+2016-06-07 17:04:12,534 INFO  [Log] Click on Confirm order button 
+2016-06-07 17:04:15,589 INFO  [Log] Click on Submit order button 
+2016-06-07 17:04:15,636 INFO  [Log] Picking order id for payment 
+2016-06-07 17:04:24,879 INFO  [Log] Picking order Amount 
+2016-06-07 17:04:27,932 INFO  [Log] Click on Submit oder for delivery 
+2016-06-07 17:04:28,088 INFO  [Log] Opening new tab to manual payment 
+2016-06-07 17:04:33,145 INFO  [Log] Navigate to payment URL 
+2016-06-07 17:04:39,097 INFO  [Log] Filling orderId 
+2016-06-07 17:04:39,146 INFO  [Log] Filling Account number to payment 
+2016-06-07 17:04:40,803 INFO  [Log] Click on submit button 
+2016-06-07 18:10:35,107 INFO  [Log] Opening Browser 
+2016-06-07 18:10:39,335 INFO  [Log] Navigating to URL 
+2016-06-08 09:40:07,630 INFO  [Log] Opening Browser 
+2016-06-08 09:40:42,816 INFO  [Log] Navigating to URL 
+2016-06-08 09:40:47,891 INFO  [Log] Closing Popup displayed on screen 
+2016-06-08 09:40:49,592 INFO  [Log] Click on Register Link to register new User 
+2016-06-08 09:40:55,867 INFO  [Log] Filling all the user details to Register 
+2016-06-08 09:40:59,031 INFO  [Log] Checking Register button status 
+2016-06-08 09:41:00,291 INFO  [Log] Click on Register button and submitting details for Registration  
+2016-06-08 09:41:49,198 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-08 09:41:49,454 INFO  [Log] Filling User credential Login and Password 
+2016-06-08 09:41:54,505 INFO  [Log] Click on Login button 
+2016-06-08 09:41:59,640 INFO  [Log] Home page is appear 
+2016-06-08 09:41:59,659 INFO  [Log] Click on Bidding link 
+2016-06-08 09:42:25,620 INFO  [Log] Creating order from backend 
+2016-06-08 09:42:25,624 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-08 09:42:49,500 INFO  [Log] Handling window 
+2016-06-08 09:42:54,243 INFO  [Log] Opening Auction URL to create order 
+2016-06-08 09:42:59,342 INFO  [Log] Filling orederId and searching created order 
+2016-06-08 09:43:07,201 INFO  [Log] New fram is appeared 
+2016-06-08 09:43:07,276 INFO  [Log] Closing running Auction 
+2016-06-08 09:43:07,280 INFO  [Log] Closing popup after creating order 
+2016-06-08 09:43:11,473 INFO  [Log] Closing Iframe 
+2016-06-08 09:43:14,603 INFO  [Log] Navigating to URL to search customer details  
+2016-06-08 09:43:28,947 INFO  [Log] Order is created 
+2016-06-08 09:43:39,765 INFO  [Log] Going to My order page 
+2016-06-08 09:43:50,652 INFO  [Log] Click on Order created link 
+2016-06-08 09:43:53,762 INFO  [Log] Click on Confirm order button 
+2016-06-08 09:44:09,783 INFO  [Log] Opening new tab to manual payment 
+2016-06-08 14:58:48,868 INFO  [Log] Opening Browser 
+2016-06-08 14:58:52,262 INFO  [Log] Navigating to URL 
+2016-06-08 14:58:57,568 INFO  [Log] Checking Register button status 
+2016-06-08 14:59:14,994 INFO  [Log] Home page is appear 
+2016-06-08 14:59:15,066 INFO  [Log] Creating order from backend 
+2016-06-08 14:59:15,095 INFO  [Log] Opening new tab to manual payment 
+2016-06-09 13:38:51,080 INFO  [Log] Opening Browser 
+2016-06-09 13:39:22,440 INFO  [Log] Navigating to URL 
+2016-06-09 13:39:27,570 INFO  [Log] Closing Popup displayed on screen 
+2016-06-09 13:39:30,014 INFO  [Log] Click on Register Link to register new User 
+2016-06-09 13:39:36,509 INFO  [Log] Filling all the user details to Register 
+2016-06-09 13:39:39,666 INFO  [Log] Checking Register button status 
+2016-06-09 13:39:41,566 INFO  [Log] Click on Register button and submitting details for Registration  
+2016-06-09 13:39:58,875 INFO  [Log] Filling Verification code from Database 
+2016-06-09 13:40:01,971 INFO  [Log] Click on Verification button and move to home page 
+2016-06-09 13:40:07,149 INFO  [Log] Goto My side page and checking for Logout button 
+2016-06-09 13:40:11,920 INFO  [Log] Click on Logout button 
+2016-06-09 13:40:12,241 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-09 13:40:12,528 INFO  [Log] Filling User credential Login and Password 
+2016-06-09 13:40:17,633 INFO  [Log] Click on Login button 
+2016-06-09 13:40:22,810 INFO  [Log] Home page is appear 
+2016-06-09 13:40:22,865 INFO  [Log] Click on Bidding link 
+2016-06-09 13:40:43,415 INFO  [Log] Creating order from backend 
+2016-06-09 13:40:43,420 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-09 13:40:43,516 INFO  [Log] Handling window 
+2016-06-09 13:41:02,131 INFO  [Log] Opening Auction URL to create order 
+2016-06-09 13:41:07,380 INFO  [Log] Filling orederId and searching created order 
+2016-06-09 13:41:16,201 INFO  [Log] New fram is appeared 
+2016-06-09 13:41:16,294 INFO  [Log] Closing running Auction 
+2016-06-09 13:41:16,302 INFO  [Log] Closing popup after creating order 
+2016-06-09 13:41:20,568 INFO  [Log] Closing Iframe 
+2016-06-09 13:41:23,692 INFO  [Log] Navigating to URL to search customer details  
+2016-06-09 13:41:41,830 INFO  [Log] Order is created 
+2016-06-09 13:41:49,478 INFO  [Log] Going to My order page 
+2016-06-09 13:42:02,885 INFO  [Log] Opening new tab to manual payment 
+2016-06-09 13:42:07,953 INFO  [Log] Navigate to payment URL 
+2016-06-09 15:25:26,297 INFO  [Log] Opening Browser 
+2016-06-09 15:26:02,029 INFO  [Log] Navigating to URL 
+2016-06-09 15:26:07,145 INFO  [Log] Closing Popup displayed on screen 
+2016-06-09 15:26:08,972 INFO  [Log] Click on Register Link to register new User 
+2016-06-09 15:26:15,264 INFO  [Log] Filling all the user details to Register 
+2016-06-09 15:27:12,232 INFO  [Log] Opening Browser 
+2016-06-09 15:27:45,649 INFO  [Log] Navigating to URL 
+2016-06-09 15:27:50,757 INFO  [Log] Closing Popup displayed on screen 
+2016-06-09 15:27:51,256 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-09 15:27:51,594 INFO  [Log] Filling User credential Login and Password 
+2016-06-09 15:27:56,704 INFO  [Log] Click on Login button 
+2016-06-09 15:28:01,875 INFO  [Log] Home page is appear 
+2016-06-09 15:28:01,927 INFO  [Log] Click on Bidding link 
+2016-06-09 15:28:21,382 INFO  [Log] Creating order from backend 
+2016-06-09 15:28:21,387 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-09 15:28:21,483 INFO  [Log] Handling window 
+2016-06-09 15:28:31,037 INFO  [Log] Opening Auction URL to create order 
+2016-06-09 15:28:36,142 INFO  [Log] Filling orederId and searching created order 
+2016-06-09 15:28:43,899 INFO  [Log] New fram is appeared 
+2016-06-09 15:28:44,005 INFO  [Log] Closing running Auction 
+2016-06-09 15:28:44,031 INFO  [Log] Closing popup after creating order 
+2016-06-09 15:28:48,054 INFO  [Log] Closing Iframe 
+2016-06-09 15:28:51,215 INFO  [Log] Navigating to URL to search customer details  
+2016-06-09 15:29:05,691 INFO  [Log] Order is created 
+2016-06-09 15:29:17,766 INFO  [Log] Opening Browser 
+2016-06-09 15:29:49,546 INFO  [Log] Navigating to URL 
+2016-06-09 15:29:54,669 INFO  [Log] Closing Popup displayed on screen 
+2016-06-09 15:29:55,278 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-09 15:29:55,527 INFO  [Log] Filling User credential Login and Password 
+2016-06-09 15:30:00,651 INFO  [Log] Click on Login button 
+2016-06-09 15:30:05,825 INFO  [Log] Home page is appear 
+2016-06-09 15:30:05,896 INFO  [Log] Click on Bidding link 
+2016-06-09 15:30:18,548 INFO  [Log] Creating order from backend 
+2016-06-09 15:30:26,613 INFO  [Log] Opening Browser 
+2016-06-09 15:30:58,957 INFO  [Log] Navigating to URL 
+2016-06-09 15:31:04,105 INFO  [Log] Closing Popup displayed on screen 
+2016-06-09 15:31:04,579 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-09 15:31:04,843 INFO  [Log] Filling User credential Login and Password 
+2016-06-09 15:31:09,925 INFO  [Log] Click on Login button 
+2016-06-09 15:31:15,100 INFO  [Log] Home page is appear 
+2016-06-09 15:31:15,167 INFO  [Log] Click on Bidding link 
+2016-06-09 15:31:35,452 INFO  [Log] Creating order from backend 
+2016-06-09 15:31:35,456 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-09 15:31:35,538 INFO  [Log] Handling window 
+2016-06-09 15:31:44,496 INFO  [Log] Opening Auction URL to create order 
+2016-06-09 15:31:49,659 INFO  [Log] Filling orederId and searching created order 
+2016-06-09 15:31:57,156 INFO  [Log] New fram is appeared 
+2016-06-09 15:31:57,266 INFO  [Log] Closing running Auction 
+2016-06-09 15:31:57,276 INFO  [Log] Closing popup after creating order 
+2016-06-09 15:32:01,220 INFO  [Log] Closing Iframe 
+2016-06-09 15:32:04,344 INFO  [Log] Navigating to URL to search customer details  
+2016-06-09 15:32:22,380 INFO  [Log] Opening Browser 
+2016-06-09 15:32:52,939 INFO  [Log] Navigating to URL 
+2016-06-09 15:32:58,042 INFO  [Log] Closing Popup displayed on screen 
+2016-06-09 15:32:58,529 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-09 15:32:58,939 INFO  [Log] Filling User credential Login and Password 
+2016-06-09 15:33:04,045 INFO  [Log] Click on Login button 
+2016-06-09 15:33:09,219 INFO  [Log] Home page is appear 
+2016-06-09 15:33:09,271 INFO  [Log] Click on Bidding link 
+2016-06-09 15:33:28,474 INFO  [Log] Creating order from backend 
+2016-06-09 15:33:28,479 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-09 15:33:28,560 INFO  [Log] Handling window 
+2016-06-09 15:33:39,465 INFO  [Log] Opening Browser 
+2016-06-09 15:34:12,105 INFO  [Log] Navigating to URL 
+2016-06-09 15:34:17,196 INFO  [Log] Closing Popup displayed on screen 
+2016-06-09 15:34:17,594 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-09 15:34:17,795 INFO  [Log] Filling User credential Login and Password 
+2016-06-09 15:34:22,894 INFO  [Log] Click on Login button 
+2016-06-09 15:34:28,183 INFO  [Log] Home page is appear 
+2016-06-09 15:34:28,227 INFO  [Log] Click on Bidding link 
+2016-06-09 15:42:57,330 INFO  [Log] Opening Browser 
+2016-06-09 15:43:30,164 INFO  [Log] Navigating to URL 
+2016-06-09 15:43:35,264 INFO  [Log] Closing Popup displayed on screen 
+2016-06-09 15:43:35,732 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-09 15:43:35,945 INFO  [Log] Filling User credential Login and Password 
+2016-06-09 15:43:41,043 INFO  [Log] Click on Login button 
+2016-06-09 15:43:46,335 INFO  [Log] Home page is appear 
+2016-06-09 15:43:46,353 INFO  [Log] Click on Bidding link 
+2016-06-09 15:44:04,998 INFO  [Log] Creating order from backend 
+2016-06-09 15:44:05,004 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-09 15:44:05,369 INFO  [Log] Handling window 
+2016-06-09 15:44:14,119 INFO  [Log] Opening Auction URL to create order 
+2016-06-09 15:44:19,255 INFO  [Log] Filling orederId and searching created order 
+2016-06-09 15:44:34,330 INFO  [Log] Opening new tab to manual payment 
+2016-06-09 15:44:39,383 INFO  [Log] Navigate to payment URL 
+2016-06-09 15:45:39,621 INFO  [Log] Opening Browser 
+2016-06-09 15:46:14,423 INFO  [Log] Navigating to URL 
+2016-06-09 15:46:19,490 INFO  [Log] Closing Popup displayed on screen 
+2016-06-09 15:46:19,973 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-09 15:46:20,203 INFO  [Log] Filling User credential Login and Password 
+2016-06-09 15:46:25,318 INFO  [Log] Click on Login button 
+2016-06-09 15:46:30,619 INFO  [Log] Home page is appear 
+2016-06-09 15:46:35,720 INFO  [Log] Click on Bidding link 
+2016-06-09 15:50:09,990 INFO  [Log] Opening Browser 
+2016-06-09 15:50:12,819 INFO  [Log] Navigating to URL 
+2016-06-09 15:54:14,322 INFO  [Log] Opening Browser 
+2016-06-09 15:54:47,531 INFO  [Log] Navigating to URL 
+2016-06-09 15:54:52,637 INFO  [Log] Closing Popup displayed on screen 
+2016-06-09 15:54:53,260 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-09 15:54:53,482 INFO  [Log] Filling User credential Login and Password 
+2016-06-09 15:54:58,618 INFO  [Log] Click on Login button 
+2016-06-09 15:55:03,791 INFO  [Log] Home page is appear 
+2016-06-09 15:55:16,687 INFO  [Log] Click on Bidding link 
+2016-06-09 15:56:38,215 INFO  [Log] Creating order from backend 
+2016-06-09 15:56:38,230 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-09 15:56:38,915 INFO  [Log] Handling window 
+2016-06-09 15:56:38,915 INFO  [Log] Opening Auction URL to create order 
+2016-06-09 15:56:52,845 INFO  [Log] Opening Browser 
+2016-06-09 15:57:27,722 INFO  [Log] Navigating to URL 
+2016-06-09 15:57:32,800 INFO  [Log] Closing Popup displayed on screen 
+2016-06-09 15:57:33,262 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-09 15:57:33,565 INFO  [Log] Filling User credential Login and Password 
+2016-06-09 15:57:38,672 INFO  [Log] Click on Login button 
+2016-06-09 15:57:43,836 INFO  [Log] Home page is appear 
+2016-06-09 15:57:43,887 INFO  [Log] Click on Bidding link 
+2016-06-09 15:57:52,434 INFO  [Log] Creating order from backend 
+2016-06-09 15:57:52,440 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-09 15:57:52,523 INFO  [Log] Handling window 
+2016-06-09 15:58:03,098 INFO  [Log] Opening Browser 
+2016-06-09 15:58:34,724 INFO  [Log] Navigating to URL 
+2016-06-09 15:58:39,778 INFO  [Log] Closing Popup displayed on screen 
+2016-06-09 15:58:40,271 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-09 15:58:40,562 INFO  [Log] Filling User credential Login and Password 
+2016-06-09 15:58:45,661 INFO  [Log] Click on Login button 
+2016-06-09 15:58:50,968 INFO  [Log] Home page is appear 
+2016-06-09 15:59:02,828 INFO  [Log] Click on Bidding link 
+2016-06-09 15:59:45,939 INFO  [Log] Opening Browser 
+2016-06-09 16:00:19,116 INFO  [Log] Navigating to URL 
+2016-06-09 16:00:24,217 INFO  [Log] Closing Popup displayed on screen 
+2016-06-09 16:00:24,878 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-09 16:00:25,171 INFO  [Log] Filling User credential Login and Password 
+2016-06-09 16:00:30,283 INFO  [Log] Click on Login button 
+2016-06-09 16:00:35,461 INFO  [Log] Home page is appear 
+2016-06-09 16:00:35,520 INFO  [Log] Click on Bidding link 
+2016-06-09 16:44:20,717 INFO  [Log] Opening Browser 
+2016-06-09 16:44:54,868 INFO  [Log] Navigating to URL 
+2016-06-09 16:46:57,603 INFO  [Log] Opening Browser 
+2016-06-09 16:47:40,709 INFO  [Log] Navigating to URL 
+2016-06-09 16:47:45,800 INFO  [Log] Closing Popup displayed on screen 
+2016-06-09 16:47:48,741 INFO  [Log] Click on Register Link to register new User 
+2016-06-09 16:47:55,135 INFO  [Log] Filling all the user details to Register 
+2016-06-09 16:47:58,262 INFO  [Log] Checking Register button status 
+2016-06-09 16:47:59,993 INFO  [Log] Click on Register button and submitting details for Registration  
+2016-06-09 16:48:17,766 INFO  [Log] Filling Verification code from Database 
+2016-06-09 16:48:20,863 INFO  [Log] Click on Verification button and move to home page 
+2016-06-09 16:48:26,046 INFO  [Log] Goto My side page and checking for Logout button 
+2016-06-09 16:48:29,712 INFO  [Log] Click on Logout button 
+2016-06-09 16:48:30,105 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-09 16:48:30,465 INFO  [Log] Filling User credential Login and Password 
+2016-06-09 16:48:35,561 INFO  [Log] Click on Login button 
+2016-06-09 16:48:40,764 INFO  [Log] Home page is appear 
+2016-06-09 16:49:15,092 INFO  [Log] Opening Browser 
+2016-06-09 16:49:57,038 INFO  [Log] Navigating to URL 
+2016-06-09 16:50:02,140 INFO  [Log] Closing Popup displayed on screen 
+2016-06-09 16:50:02,578 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-09 16:50:02,906 INFO  [Log] Filling User credential Login and Password 
+2016-06-09 16:50:08,024 INFO  [Log] Click on Login button 
+2016-06-09 16:50:13,242 INFO  [Log] Home page is appear 
+2016-06-09 16:50:13,293 INFO  [Log] Click on Bidding link 
+2016-06-09 16:50:33,289 INFO  [Log] Creating order from backend 
+2016-06-09 16:50:33,297 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-09 16:50:33,669 INFO  [Log] Handling window 
+2016-06-09 16:50:44,140 INFO  [Log] Opening Auction URL to create order 
+2016-06-09 16:50:49,298 INFO  [Log] Filling orederId and searching created order 
+2016-06-09 16:50:57,652 INFO  [Log] New fram is appeared 
+2016-06-09 16:50:57,733 INFO  [Log] Closing running Auction 
+2016-06-09 16:50:57,739 INFO  [Log] Closing popup after creating order 
+2016-06-09 16:51:01,529 INFO  [Log] Closing Iframe 
+2016-06-09 16:51:04,659 INFO  [Log] Navigating to URL to search customer details  
+2016-06-09 16:54:24,060 INFO  [Log] Opening Browser 
+2016-06-09 16:54:29,851 INFO  [Log] Opening new tab to manual payment 
+2016-06-09 16:55:05,523 INFO  [Log] Navigating to URL 
+2016-06-09 16:55:10,630 INFO  [Log] Closing Popup displayed on screen 
+2016-06-09 16:55:11,053 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-09 16:55:11,373 INFO  [Log] Filling User credential Login and Password 
+2016-06-09 16:55:16,473 INFO  [Log] Click on Login button 
+2016-06-09 16:55:21,664 INFO  [Log] Home page is appear 
+2016-06-09 16:55:21,718 INFO  [Log] Click on Bidding link 
+2016-06-09 16:55:41,790 INFO  [Log] Creating order from backend 
+2016-06-09 16:55:41,795 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-09 16:55:41,917 INFO  [Log] Handling window 
+2016-06-09 16:55:52,840 INFO  [Log] Opening Auction URL to create order 
+2016-06-09 16:55:58,005 INFO  [Log] Filling orederId and searching created order 
+2016-06-09 16:56:07,118 INFO  [Log] New fram is appeared 
+2016-06-09 16:56:07,214 INFO  [Log] Closing running Auction 
+2016-06-09 16:56:07,220 INFO  [Log] Closing popup after creating order 
+2016-06-09 16:56:11,089 INFO  [Log] Closing Iframe 
+2016-06-09 16:56:14,223 INFO  [Log] Navigating to URL to search customer details  
+2016-06-09 16:56:27,910 INFO  [Log] Opening new tab to manual payment 
+2016-06-09 16:56:33,012 INFO  [Log] Navigate to payment URL 
+2016-06-09 16:57:42,334 INFO  [Log] Opening Browser 
+2016-06-09 16:58:24,594 INFO  [Log] Navigating to URL 
+2016-06-09 16:58:29,699 INFO  [Log] Closing Popup displayed on screen 
+2016-06-09 16:58:30,130 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-09 16:58:30,399 INFO  [Log] Filling User credential Login and Password 
+2016-06-09 16:58:35,508 INFO  [Log] Click on Login button 
+2016-06-09 16:58:40,673 INFO  [Log] Home page is appear 
+2016-06-09 16:58:40,733 INFO  [Log] Click on Bidding link 
+2016-06-09 16:59:07,350 INFO  [Log] Creating order from backend 
+2016-06-09 16:59:07,356 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-09 16:59:07,530 INFO  [Log] Handling window 
+2016-06-09 16:59:17,498 INFO  [Log] Opening Auction URL to create order 
+2016-06-09 16:59:22,645 INFO  [Log] Filling orederId and searching created order 
+2016-06-09 16:59:38,395 INFO  [Log] Opening Browser 
+2016-06-09 17:00:21,193 INFO  [Log] Navigating to URL 
+2016-06-09 17:00:26,305 INFO  [Log] Closing Popup displayed on screen 
+2016-06-09 17:00:26,626 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-09 17:00:26,889 INFO  [Log] Filling User credential Login and Password 
+2016-06-09 17:00:31,993 INFO  [Log] Click on Login button 
+2016-06-09 17:00:37,185 INFO  [Log] Home page is appear 
+2016-06-09 17:00:37,246 INFO  [Log] Click on Bidding link 
+2016-06-09 17:00:58,055 INFO  [Log] Creating order from backend 
+2016-06-09 17:00:58,061 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-09 17:00:58,419 INFO  [Log] Handling window 
+2016-06-09 17:01:12,082 INFO  [Log] Opening Auction URL to create order 
+2016-06-09 17:01:17,237 INFO  [Log] Filling orederId and searching created order 
+2016-06-09 17:01:26,706 INFO  [Log] New fram is appeared 
+2016-06-09 17:01:26,799 INFO  [Log] Closing running Auction 
+2016-06-09 17:01:26,804 INFO  [Log] Closing popup after creating order 
+2016-06-09 17:01:30,738 INFO  [Log] Closing Iframe 
+2016-06-09 17:01:33,863 INFO  [Log] Navigating to URL to search customer details  
+2016-06-09 17:01:47,252 INFO  [Log] Opening new tab to manual payment 
+2016-06-09 17:01:52,340 INFO  [Log] Navigate to payment URL 
+2016-06-09 17:05:47,340 INFO  [Log] Opening Browser 
+2016-06-09 17:06:33,252 INFO  [Log] Navigating to URL 
+2016-06-09 17:06:38,358 INFO  [Log] Closing Popup displayed on screen 
+2016-06-09 17:06:38,799 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-09 17:06:39,058 INFO  [Log] Filling User credential Login and Password 
+2016-06-09 17:06:44,177 INFO  [Log] Click on Login button 
+2016-06-09 17:06:49,366 INFO  [Log] Home page is appear 
+2016-06-09 17:06:49,432 INFO  [Log] Click on Bidding link 
+2016-06-09 17:06:58,666 INFO  [Log] Creating order from backend 
+2016-06-09 17:06:58,671 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-09 17:06:58,759 INFO  [Log] Handling window 
+2016-06-09 17:07:08,806 INFO  [Log] Opening Auction URL to create order 
+2016-06-09 17:07:13,970 INFO  [Log] Filling orederId and searching created order 
+2016-06-09 17:07:29,847 INFO  [Log] Opening new tab to manual payment 
+2016-06-09 17:07:34,916 INFO  [Log] Navigate to payment URL 
+2016-06-09 17:09:22,057 INFO  [Log] Opening Browser 
+2016-06-09 17:10:03,726 INFO  [Log] Navigating to URL 
+2016-06-09 17:10:08,786 INFO  [Log] Closing Popup displayed on screen 
+2016-06-09 17:10:09,104 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-09 17:10:09,402 INFO  [Log] Filling User credential Login and Password 
+2016-06-09 17:10:14,463 INFO  [Log] Click on Login button 
+2016-06-09 17:10:19,656 INFO  [Log] Home page is appear 
+2016-06-09 17:10:19,737 INFO  [Log] Click on Bidding link 
+2016-06-09 17:10:38,608 INFO  [Log] Creating order from backend 
+2016-06-09 17:10:38,613 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-09 17:10:38,696 INFO  [Log] Handling window 
+2016-06-09 17:10:48,046 INFO  [Log] Opening Auction URL to create order 
+2016-06-09 17:10:53,151 INFO  [Log] Filling orederId and searching created order 
+2016-06-09 17:11:01,783 INFO  [Log] New fram is appeared 
+2016-06-09 17:11:01,865 INFO  [Log] Closing running Auction 
+2016-06-09 17:11:01,872 INFO  [Log] Closing popup after creating order 
+2016-06-09 17:11:06,274 INFO  [Log] Closing Iframe 
+2016-06-09 17:11:09,400 INFO  [Log] Navigating to URL to search customer details  
+2016-06-09 17:11:25,080 INFO  [Log] Order is created 
+2016-06-09 17:11:34,144 INFO  [Log] Going to My order page 
+2016-06-09 17:11:43,488 INFO  [Log] Click on Order created link 
+2016-06-09 17:11:50,721 INFO  [Log] Click on Confirm order button 
+2016-06-09 17:11:53,813 INFO  [Log] Click on Submit order button 
+2016-06-09 17:11:53,861 INFO  [Log] Picking order id for payment 
+2016-06-09 17:12:03,568 INFO  [Log] Picking order Amount 
+2016-06-09 17:12:06,621 INFO  [Log] Click on Submit oder for delivery 
+2016-06-09 17:12:06,753 INFO  [Log] Opening new tab to manual payment 
+2016-06-09 17:12:11,826 INFO  [Log] Navigate to payment URL 
+2016-06-09 17:12:17,588 INFO  [Log] Filling orderId 
+2016-06-09 17:12:17,639 INFO  [Log] Filling Account number to payment 
+2016-06-09 17:12:18,525 INFO  [Log] Click on submit button 
+2016-06-09 17:26:32,389 INFO  [Log] Opening Browser 
+2016-06-09 17:27:12,486 INFO  [Log] Navigating to URL 
+2016-06-09 17:27:17,605 INFO  [Log] Closing Popup displayed on screen 
+2016-06-09 17:27:18,049 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-09 17:27:18,347 INFO  [Log] Filling User credential Login and Password 
+2016-06-09 17:27:23,469 INFO  [Log] Click on Login button 
+2016-06-09 17:27:28,652 INFO  [Log] Home page is appear 
+2016-06-09 17:27:28,716 INFO  [Log] Click on Bidding link 
+2016-06-09 17:27:48,872 INFO  [Log] Creating order from backend 
+2016-06-09 17:27:48,882 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-09 17:27:48,964 INFO  [Log] Handling window 
+2016-06-09 17:27:57,823 INFO  [Log] Opening Auction URL to create order 
+2016-06-10 10:57:32,076 INFO  [Log] Opening Browser 
+2016-06-10 10:58:15,622 INFO  [Log] Navigating to URL 
+2016-06-10 10:58:20,729 INFO  [Log] Closing Popup displayed on screen 
+2016-06-10 10:58:21,287 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-10 10:58:21,615 INFO  [Log] Filling User credential Login and Password 
+2016-06-10 10:58:26,705 INFO  [Log] Click on Login button 
+2016-06-10 10:58:31,896 INFO  [Log] Home page is appear 
+2016-06-10 10:58:31,963 INFO  [Log] Click on Bidding link 
+2016-06-10 10:58:53,030 INFO  [Log] Creating order from backend 
+2016-06-10 10:58:53,035 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-10 10:58:53,114 INFO  [Log] Handling window 
+2016-06-10 10:59:24,170 INFO  [Log] Opening Auction URL to create order 
+2016-06-10 11:00:07,853 INFO  [Log] Opening Browser 
+2016-06-10 11:00:50,709 INFO  [Log] Navigating to URL 
+2016-06-10 11:00:55,819 INFO  [Log] Closing Popup displayed on screen 
+2016-06-10 11:00:56,518 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-10 11:00:56,791 INFO  [Log] Filling User credential Login and Password 
+2016-06-10 11:01:01,846 INFO  [Log] Click on Login button 
+2016-06-10 11:01:07,064 INFO  [Log] Home page is appear 
+2016-06-10 11:01:07,085 INFO  [Log] Click on Bidding link 
+2016-06-10 11:01:23,321 INFO  [Log] Opening Browser 
+2016-06-10 11:02:11,982 INFO  [Log] Navigating to URL 
+2016-06-10 11:02:17,100 INFO  [Log] Closing Popup displayed on screen 
+2016-06-10 11:02:17,789 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-10 11:02:18,043 INFO  [Log] Filling User credential Login and Password 
+2016-06-10 11:02:23,149 INFO  [Log] Click on Login button 
+2016-06-10 11:02:28,354 INFO  [Log] Home page is appear 
+2016-06-10 11:02:28,447 INFO  [Log] Click on Bidding link 
+2016-06-10 11:02:47,948 INFO  [Log] Creating order from backend 
+2016-06-10 11:02:47,953 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-10 11:02:48,039 INFO  [Log] Handling window 
+2016-06-10 11:02:58,756 INFO  [Log] Opening Auction URL to create order 
+2016-06-10 11:03:03,990 INFO  [Log] Filling orederId and searching created order 
+2016-06-10 11:03:14,347 INFO  [Log] New fram is appeared 
+2016-06-10 11:03:14,440 INFO  [Log] Closing running Auction 
+2016-06-10 11:03:14,446 INFO  [Log] Closing popup after creating order 
+2016-06-10 11:03:18,724 INFO  [Log] Closing Iframe 
+2016-06-10 11:03:21,853 INFO  [Log] Navigating to URL to search customer details  
+2016-06-10 11:03:41,438 INFO  [Log] Order is created 
+2016-06-10 11:03:51,269 INFO  [Log] Going to My order page 
+2016-06-10 11:04:05,013 INFO  [Log] Click on Order created link 
+2016-06-10 11:04:12,007 INFO  [Log] Click on Confirm order button 
+2016-06-10 11:04:14,121 INFO  [Log] Opening Browser 
+2016-06-10 11:04:15,097 INFO  [Log] Click on Submit order button 
+2016-06-10 11:04:21,205 INFO  [Log] Opening new tab to manual payment 
+2016-06-10 11:04:59,119 INFO  [Log] Navigating to URL 
+2016-06-10 11:05:04,219 INFO  [Log] Closing Popup displayed on screen 
+2016-06-10 11:05:04,865 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-10 11:05:05,121 INFO  [Log] Filling User credential Login and Password 
+2016-06-10 11:05:10,218 INFO  [Log] Click on Login button 
+2016-06-10 11:05:15,410 INFO  [Log] Home page is appear 
+2016-06-10 11:05:15,468 INFO  [Log] Click on Bidding link 
+2016-06-10 11:05:34,060 INFO  [Log] Creating order from backend 
+2016-06-10 11:05:34,065 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-10 11:05:34,449 INFO  [Log] Handling window 
+2016-06-10 11:05:44,910 INFO  [Log] Opening Auction URL to create order 
+2016-06-10 11:05:50,047 INFO  [Log] Filling orederId and searching created order 
+2016-06-10 11:05:58,976 INFO  [Log] New fram is appeared 
+2016-06-10 11:05:59,074 INFO  [Log] Closing running Auction 
+2016-06-10 11:05:59,080 INFO  [Log] Closing popup after creating order 
+2016-06-10 11:06:02,968 INFO  [Log] Closing Iframe 
+2016-06-10 11:06:06,093 INFO  [Log] Navigating to URL to search customer details  
+2016-06-10 11:06:21,585 INFO  [Log] Order is created 
+2016-06-10 11:06:29,460 INFO  [Log] Going to My order page 
+2016-06-10 11:06:41,951 INFO  [Log] Click on Order created link 
+2016-06-10 11:06:48,448 INFO  [Log] Click on Confirm order button 
+2016-06-10 11:06:51,551 INFO  [Log] Click on Submit order button 
+2016-06-10 11:06:51,606 INFO  [Log] Picking order id for payment 
+2016-06-10 11:07:07,986 INFO  [Log] Opening new tab to manual payment 
+2016-06-10 11:07:31,131 INFO  [Log] Opening Browser 
+2016-06-10 11:08:15,207 INFO  [Log] Navigating to URL 
+2016-06-10 11:08:20,295 INFO  [Log] Closing Popup displayed on screen 
+2016-06-10 11:08:21,040 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-10 11:08:21,276 INFO  [Log] Filling User credential Login and Password 
+2016-06-10 11:08:26,370 INFO  [Log] Click on Login button 
+2016-06-10 11:08:31,576 INFO  [Log] Home page is appear 
+2016-06-10 11:08:31,637 INFO  [Log] Click on Bidding link 
+2016-06-10 11:09:24,989 INFO  [Log] Creating order from backend 
+2016-06-10 11:09:24,995 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-10 11:09:26,918 INFO  [Log] Handling window 
+2016-06-10 11:09:26,918 INFO  [Log] Opening Auction URL to create order 
+2016-06-10 11:09:38,039 INFO  [Log] Opening new tab to manual payment 
+2016-06-10 11:09:40,964 INFO  [Log] Opening Browser 
+2016-06-10 11:10:09,144 INFO  [Log] Opening Browser 
+2016-06-10 11:10:11,829 INFO  [Log] Navigating to URL 
+2016-06-10 11:10:22,086 INFO  [Log] Home page is appear 
+2016-06-10 11:10:22,161 INFO  [Log] Creating order from backend 
+2016-06-10 11:10:22,209 INFO  [Log] Opening new tab to manual payment 
+2016-06-10 11:10:51,411 INFO  [Log] Navigating to URL 
+2016-06-10 11:10:56,506 INFO  [Log] Closing Popup displayed on screen 
+2016-06-10 11:10:57,212 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-10 11:10:57,472 INFO  [Log] Filling User credential Login and Password 
+2016-06-10 11:11:02,569 INFO  [Log] Click on Login button 
+2016-06-10 11:11:07,758 INFO  [Log] Home page is appear 
+2016-06-10 11:11:07,821 INFO  [Log] Click on Bidding link 
+2016-06-10 11:11:27,539 INFO  [Log] Creating order from backend 
+2016-06-10 11:11:27,544 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-10 11:11:27,628 INFO  [Log] Handling window 
+2016-06-10 11:11:39,000 INFO  [Log] Opening Auction URL to create order 
+2016-06-10 11:11:44,163 INFO  [Log] Filling orederId and searching created order 
+2016-06-10 11:11:53,061 INFO  [Log] New fram is appeared 
+2016-06-10 11:11:53,238 INFO  [Log] Closing running Auction 
+2016-06-10 11:11:53,243 INFO  [Log] Closing popup after creating order 
+2016-06-10 11:11:57,087 INFO  [Log] Closing Iframe 
+2016-06-10 11:12:00,212 INFO  [Log] Navigating to URL to search customer details  
+2016-06-10 11:12:15,679 INFO  [Log] Order is created 
+2016-06-10 11:12:23,585 INFO  [Log] Going to My order page 
+2016-06-10 11:12:31,572 INFO  [Log] Click on Order created link 
+2016-06-10 11:12:34,712 INFO  [Log] Click on Confirm order button 
+2016-06-10 11:12:45,050 INFO  [Log] Opening new tab to manual payment 
+2016-06-10 11:12:50,123 INFO  [Log] Navigate to payment URL 
+2016-06-10 11:13:59,304 INFO  [Log] Opening Browser 
+2016-06-10 11:14:40,249 INFO  [Log] Navigating to URL 
+2016-06-10 11:14:45,365 INFO  [Log] Closing Popup displayed on screen 
+2016-06-10 11:14:46,078 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-10 11:14:46,336 INFO  [Log] Filling User credential Login and Password 
+2016-06-10 11:14:51,423 INFO  [Log] Click on Login button 
+2016-06-10 11:14:59,100 INFO  [Log] Home page is appear 
+2016-06-10 11:14:59,164 INFO  [Log] Click on Bidding link 
+2016-06-10 11:15:18,601 INFO  [Log] Opening Browser 
+2016-06-10 11:16:00,556 INFO  [Log] Navigating to URL 
+2016-06-10 11:16:05,616 INFO  [Log] Closing Popup displayed on screen 
+2016-06-10 11:16:06,156 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-10 11:16:06,432 INFO  [Log] Filling User credential Login and Password 
+2016-06-10 11:16:11,530 INFO  [Log] Click on Login button 
+2016-06-10 11:16:19,070 INFO  [Log] Home page is appear 
+2016-06-10 11:16:19,131 INFO  [Log] Click on Bidding link 
+2016-06-10 11:16:38,320 INFO  [Log] Creating order from backend 
+2016-06-10 11:16:38,324 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-10 11:16:38,650 INFO  [Log] Handling window 
+2016-06-10 11:16:47,910 INFO  [Log] Opening Browser 
+2016-06-10 11:16:49,199 INFO  [Log] Opening Auction URL to create order 
+2016-06-10 11:17:00,375 INFO  [Log] Opening new tab to manual payment 
+2016-06-10 11:17:33,000 INFO  [Log] Navigating to URL 
+2016-06-10 11:17:38,097 INFO  [Log] Closing Popup displayed on screen 
+2016-06-10 11:17:38,633 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-10 11:17:38,911 INFO  [Log] Filling User credential Login and Password 
+2016-06-10 11:17:44,006 INFO  [Log] Click on Login button 
+2016-06-10 11:17:52,440 INFO  [Log] Home page is appear 
+2016-06-10 11:17:52,501 INFO  [Log] Click on Bidding link 
+2016-06-10 11:25:14,588 INFO  [Log] Opening Browser 
+2016-06-10 11:25:54,908 INFO  [Log] Navigating to URL 
+2016-06-10 11:26:00,008 INFO  [Log] Closing Popup displayed on screen 
+2016-06-10 11:26:00,614 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-10 11:26:00,877 INFO  [Log] Filling User credential Login and Password 
+2016-06-10 11:26:05,971 INFO  [Log] Click on Login button 
+2016-06-10 11:26:11,259 INFO  [Log] Home page is appear 
+2016-06-10 11:26:11,332 INFO  [Log] Click on Bidding link 
+2016-06-10 11:26:32,085 INFO  [Log] Creating order from backend 
+2016-06-10 11:26:32,331 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-10 11:26:32,455 INFO  [Log] Handling window 
+2016-06-10 11:26:42,729 INFO  [Log] Opening Auction URL to create order 
+2016-06-10 11:26:47,905 INFO  [Log] Filling orederId and searching created order 
+2016-06-10 11:26:55,558 INFO  [Log] New fram is appeared 
+2016-06-10 11:26:55,652 INFO  [Log] Closing running Auction 
+2016-06-10 11:26:55,658 INFO  [Log] Closing popup after creating order 
+2016-06-10 11:26:59,513 INFO  [Log] Closing Iframe 
+2016-06-10 11:27:02,642 INFO  [Log] Navigating to URL to search customer details  
+2016-06-10 11:27:17,699 INFO  [Log] Order is created 
+2016-06-10 11:27:25,368 INFO  [Log] Going to My order page 
+2016-06-10 11:27:32,895 INFO  [Log] Click on Order created link 
+2016-06-10 11:27:38,553 INFO  [Log] Click on Confirm order button 
+2016-06-10 11:27:41,646 INFO  [Log] Click on Submit order button 
+2016-06-10 11:27:41,704 INFO  [Log] Picking order id for payment 
+2016-06-10 11:27:59,313 INFO  [Log] Picking order Amount 
+2016-06-10 11:28:02,362 INFO  [Log] Click on Submit oder for delivery 
+2016-06-10 11:28:02,515 INFO  [Log] Opening new tab to manual payment 
+2016-06-10 11:28:07,591 INFO  [Log] Navigate to payment URL 
+2016-06-10 11:28:13,360 INFO  [Log] Filling orderId 
+2016-06-10 11:28:13,408 INFO  [Log] Filling Account number to payment 
+2016-06-10 11:28:14,489 INFO  [Log] Click on submit button 
+2016-06-10 13:04:44,026 INFO  [Log] Opening Browser 
+2016-06-10 13:06:05,781 INFO  [Log] Navigating to URL 
+2016-06-10 13:06:10,839 INFO  [Log] Closing Popup displayed on screen 
+2016-06-10 13:06:11,473 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-10 13:06:11,736 INFO  [Log] Filling User credential Login and Password 
+2016-06-10 13:06:16,815 INFO  [Log] Click on Login button 
+2016-06-10 13:06:22,011 INFO  [Log] Home page is appear 
+2016-06-10 13:06:27,486 INFO  [Log] Click on Bidding link 
+2016-06-10 13:06:52,816 INFO  [Log] Creating order from backend 
+2016-06-10 13:06:52,860 INFO  [Log] Opening new tab to manual payment 
+2016-06-10 14:07:03,833 INFO  [Log] Opening Browser 
+2016-06-10 14:07:54,749 INFO  [Log] Navigating to URL 
+2016-06-10 14:07:59,806 INFO  [Log] Closing Popup displayed on screen 
+2016-06-10 14:08:00,389 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-10 14:08:00,759 INFO  [Log] Filling User credential Login and Password 
+2016-06-10 14:08:05,814 INFO  [Log] Click on Login button 
+2016-06-10 14:08:11,111 INFO  [Log] Home page is appear 
+2016-06-10 14:08:11,135 INFO  [Log] Click on Bidding link 
+2016-06-10 14:08:34,277 INFO  [Log] Creating order from backend 
+2016-06-10 14:08:34,282 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-10 14:08:34,374 INFO  [Log] Handling window 
+2016-06-10 14:08:59,322 INFO  [Log] Opening Auction URL to create order 
+2016-06-10 14:09:04,429 INFO  [Log] Filling orederId and searching created order 
+2016-06-10 14:09:14,585 INFO  [Log] New fram is appeared 
+2016-06-10 14:09:14,673 INFO  [Log] Closing running Auction 
+2016-06-10 14:09:14,679 INFO  [Log] Closing popup after creating order 
+2016-06-10 14:09:18,975 INFO  [Log] Closing Iframe 
+2016-06-10 14:09:22,100 INFO  [Log] Navigating to URL to search customer details  
+2016-06-10 14:09:41,841 INFO  [Log] Order is created 
+2016-06-10 14:09:51,332 INFO  [Log] Going to My order page 
+2016-06-10 14:10:00,620 INFO  [Log] Click on Order created link 
+2016-06-10 14:10:03,744 INFO  [Log] Click on Confirm order button 
+2016-06-10 14:10:14,081 INFO  [Log] Opening new tab to manual payment 
+2016-06-10 14:10:19,152 INFO  [Log] Navigate to payment URL 
+2016-06-10 15:03:57,869 INFO  [Log] Opening Browser 
+2016-06-10 15:04:45,667 INFO  [Log] Navigating to URL 
+2016-06-10 15:04:50,749 INFO  [Log] Closing Popup displayed on screen 
+2016-06-10 15:04:51,366 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-10 15:04:51,654 INFO  [Log] Filling User credential Login and Password 
+2016-06-10 15:04:56,802 INFO  [Log] Click on Login button 
+2016-06-10 15:05:01,994 INFO  [Log] Home page is appear 
+2016-06-10 15:05:02,227 INFO  [Log] Click on Bidding link 
+2016-06-10 15:05:22,712 INFO  [Log] Creating order from backend 
+2016-06-10 15:05:22,717 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-10 15:05:22,797 INFO  [Log] Handling window 
+2016-06-10 15:05:33,683 INFO  [Log] Opening Browser 
+2016-06-10 15:06:30,906 INFO  [Log] Navigating to URL 
+2016-06-10 15:06:36,015 INFO  [Log] Closing Popup displayed on screen 
+2016-06-10 15:06:36,572 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-10 15:06:36,848 INFO  [Log] Filling User credential Login and Password 
+2016-06-10 15:06:41,945 INFO  [Log] Click on Login button 
+2016-06-10 15:06:47,135 INFO  [Log] Home page is appear 
+2016-06-10 15:06:47,191 INFO  [Log] Click on Bidding link 
+2016-06-10 15:06:59,050 INFO  [Log] Creating order from backend 
+2016-06-10 15:06:59,054 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-10 15:06:59,136 INFO  [Log] Handling window 
+2016-06-10 15:07:08,541 INFO  [Log] Opening Auction URL to create order 
+2016-06-10 15:07:13,690 INFO  [Log] Filling orederId and searching created order 
+2016-06-10 15:07:29,152 INFO  [Log] Opening new tab to manual payment 
+2016-06-10 15:07:34,218 INFO  [Log] Navigate to payment URL 
+2016-06-10 15:31:52,860 INFO  [Log] Opening Browser 
+2016-06-10 15:32:38,899 INFO  [Log] Navigating to URL 
+2016-06-10 15:32:44,009 INFO  [Log] Closing Popup displayed on screen 
+2016-06-10 15:32:44,593 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-10 15:32:44,891 INFO  [Log] Filling User credential Login and Password 
+2016-06-10 15:32:50,002 INFO  [Log] Click on Login button 
+2016-06-10 15:32:55,332 INFO  [Log] Home page is appear 
+2016-06-10 15:32:55,389 INFO  [Log] Click on Bidding link 
+2016-06-10 15:33:37,884 INFO  [Log] Home page is appear 
+2016-06-10 15:33:37,944 INFO  [Log] Click on Bidding link 
+2016-06-10 15:34:18,850 INFO  [Log] Home page is appear 
+2016-06-10 15:34:18,919 INFO  [Log] Click on Bidding link 
+2016-06-10 15:34:37,065 INFO  [Log] Creating order from backend 
+2016-06-10 15:34:37,070 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-10 15:34:37,434 INFO  [Log] Handling window 
+2016-06-10 15:34:46,831 INFO  [Log] Opening Auction URL to create order 
+2016-06-10 15:34:51,996 INFO  [Log] Filling orederId and searching created order 
+2016-06-10 15:35:00,096 INFO  [Log] New fram is appeared 
+2016-06-10 15:35:00,183 INFO  [Log] Closing running Auction 
+2016-06-10 15:35:00,191 INFO  [Log] Closing popup after creating order 
+2016-06-10 15:35:04,155 INFO  [Log] Closing Iframe 
+2016-06-10 15:35:07,277 INFO  [Log] Navigating to URL to search customer details  
+2016-06-10 15:35:21,360 INFO  [Log] Order is created 
+2016-06-10 15:35:29,474 INFO  [Log] Going to My order page 
+2016-06-10 15:35:37,951 INFO  [Log] Click on Order created link 
+2016-06-10 15:35:45,589 INFO  [Log] Click on Confirm order button 
+2016-06-10 15:35:48,680 INFO  [Log] Click on Submit order button 
+2016-06-10 15:35:48,694 INFO  [Log] Picking order id for payment 
+2016-06-10 15:35:57,779 INFO  [Log] Picking order Amount 
+2016-06-10 15:36:00,833 INFO  [Log] Click on Submit oder for delivery 
+2016-06-10 15:36:01,104 INFO  [Log] Opening new tab to manual payment 
+2016-06-10 15:36:06,169 INFO  [Log] Navigate to payment URL 
+2016-06-10 15:36:12,569 INFO  [Log] Filling orderId 
+2016-06-10 15:36:12,617 INFO  [Log] Filling Account number to payment 
+2016-06-10 15:36:13,710 INFO  [Log] Click on submit button 
+2016-06-10 16:02:49,349 INFO  [Log] Opening Browser 
+2016-06-10 16:03:39,732 INFO  [Log] Navigating to URL 
+2016-06-10 16:03:44,836 INFO  [Log] Closing Popup displayed on screen 
+2016-06-10 16:03:45,404 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-10 16:03:45,681 INFO  [Log] Filling User credential Login and Password 
+2016-06-10 16:03:50,779 INFO  [Log] Click on Login button 
+2016-06-10 16:03:56,072 INFO  [Log] Home page is appear 
+2016-06-10 16:03:56,214 INFO  [Log] Click on Bidding link 
+2016-06-10 16:04:15,927 INFO  [Log] Creating order from backend 
+2016-06-10 16:04:15,932 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-10 16:04:16,013 INFO  [Log] Handling window 
+2016-06-10 16:04:25,508 INFO  [Log] Opening Auction URL to create order 
+2016-06-10 16:04:30,648 INFO  [Log] Filling orederId and searching created order 
+2016-06-10 16:04:37,963 INFO  [Log] New fram is appeared 
+2016-06-10 16:04:38,061 INFO  [Log] Closing running Auction 
+2016-06-10 16:04:38,068 INFO  [Log] Closing popup after creating order 
+2016-06-10 16:04:41,955 INFO  [Log] Closing Iframe 
+2016-06-10 16:04:45,076 INFO  [Log] Navigating to URL to search customer details  
+2016-06-10 16:05:00,949 INFO  [Log] Order is created 
+2016-06-10 16:05:09,312 INFO  [Log] Going to My order page 
+2016-06-10 16:05:18,765 INFO  [Log] Click on Order created link 
+2016-06-10 16:05:21,907 INFO  [Log] Click on Confirm order button 
+2016-06-10 16:05:32,372 INFO  [Log] Opening new tab to manual payment 
+2016-06-10 16:05:37,443 INFO  [Log] Navigate to payment URL 
+2016-06-10 16:19:16,860 INFO  [Log] Opening Browser 
+2016-06-10 16:20:06,314 INFO  [Log] Navigating to URL 
+2016-06-10 16:20:11,372 INFO  [Log] Closing Popup displayed on screen 
+2016-06-10 16:20:13,627 INFO  [Log] Click on Register Link to register new User 
+2016-06-10 16:20:20,160 INFO  [Log] Filling all the user details to Register 
+2016-06-10 16:20:23,325 INFO  [Log] Checking Register button status 
+2016-06-10 16:20:25,093 INFO  [Log] Click on Register button and submitting details for Registration  
+2016-06-10 16:20:43,235 INFO  [Log] Filling Verification code from Database 
+2016-06-10 16:20:46,332 INFO  [Log] Click on Verification button and move to home page 
+2016-06-10 16:20:51,501 INFO  [Log] Goto My side page and checking for Logout button 
+2016-06-10 16:20:58,154 INFO  [Log] Click on Logout button 
+2016-06-10 16:20:58,547 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-10 16:20:58,892 INFO  [Log] Filling User credential Login and Password 
+2016-06-10 16:21:04,033 INFO  [Log] Click on Login button 
+2016-06-10 16:21:09,235 INFO  [Log] Home page is appear 
+2016-06-10 16:21:09,291 INFO  [Log] Click on Bidding link 
+2016-06-10 16:21:29,594 INFO  [Log] Creating order from backend 
+2016-06-10 16:21:29,599 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-10 16:21:29,949 INFO  [Log] Handling window 
+2016-06-10 16:21:41,569 INFO  [Log] Opening Auction URL to create order 
+2016-06-10 16:21:46,706 INFO  [Log] Filling orederId and searching created order 
+2016-06-10 16:21:55,743 INFO  [Log] New fram is appeared 
+2016-06-10 16:21:55,838 INFO  [Log] Closing running Auction 
+2016-06-10 16:21:55,843 INFO  [Log] Closing popup after creating order 
+2016-06-10 16:21:59,957 INFO  [Log] Closing Iframe 
+2016-06-10 16:22:03,082 INFO  [Log] Navigating to URL to search customer details  
+2016-06-10 16:22:18,710 INFO  [Log] Order is created 
+2016-06-10 16:22:26,040 INFO  [Log] Going to My order page 
+2016-06-10 16:24:09,303 INFO  [Log] Opening Browser 
+2016-06-10 16:24:52,349 INFO  [Log] Navigating to URL 
+2016-06-10 16:24:57,447 INFO  [Log] Closing Popup displayed on screen 
+2016-06-10 16:25:00,872 INFO  [Log] Click on Register Link to register new User 
+2016-06-10 16:25:07,476 INFO  [Log] Filling all the user details to Register 
+2016-06-10 16:25:10,626 INFO  [Log] Checking Register button status 
+2016-06-10 16:25:12,181 INFO  [Log] Click on Register button and submitting details for Registration  
+2016-06-10 16:25:29,321 INFO  [Log] Filling Verification code from Database 
+2016-06-10 16:25:32,410 INFO  [Log] Click on Verification button and move to home page 
+2016-06-10 16:25:37,590 INFO  [Log] Goto My side page and checking for Logout button 
+2016-06-10 16:25:45,088 INFO  [Log] Click on Logout button 
+2016-06-10 16:25:45,386 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-10 16:25:45,630 INFO  [Log] Filling User credential Login and Password 
+2016-06-10 16:25:50,734 INFO  [Log] Click on Login button 
+2016-06-10 16:25:55,896 INFO  [Log] Home page is appear 
+2016-06-10 16:26:06,125 INFO  [Log] Creating order from backend 
+2016-06-10 16:26:06,130 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-10 16:26:06,206 INFO  [Log] Handling window 
+2016-06-10 16:26:17,088 INFO  [RetryExec] I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:22450: Connection reset 
+2016-06-10 16:26:17,088 INFO  [RetryExec] Retrying request to {}->http://localhost:22450 
+2016-06-10 16:26:21,193 INFO  [Log] Opening new tab to manual payment 
+2016-06-10 16:27:43,672 INFO  [Log] Opening Browser 
+2016-06-10 16:28:23,499 INFO  [Log] Navigating to URL 
+2016-06-10 16:28:28,630 INFO  [Log] Closing Popup displayed on screen 
+2016-06-10 16:28:30,811 INFO  [Log] Click on Register Link to register new User 
+2016-06-10 16:28:37,242 INFO  [Log] Filling all the user details to Register 
+2016-06-10 16:28:40,408 INFO  [Log] Checking Register button status 
+2016-06-10 16:28:41,947 INFO  [Log] Click on Register button and submitting details for Registration  
+2016-06-10 16:28:59,219 INFO  [Log] Filling Verification code from Database 
+2016-06-10 16:29:02,313 INFO  [Log] Click on Verification button and move to home page 
+2016-06-10 16:29:07,485 INFO  [Log] Goto My side page and checking for Logout button 
+2016-06-10 16:29:13,712 INFO  [Log] Click on Logout button 
+2016-06-10 16:29:14,057 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-10 16:29:14,324 INFO  [Log] Filling User credential Login and Password 
+2016-06-10 16:29:19,425 INFO  [Log] Click on Login button 
+2016-06-10 16:29:24,601 INFO  [Log] Home page is appear 
+2016-06-10 16:29:24,660 INFO  [Log] Click on Bidding link 
+2016-06-10 16:29:46,574 INFO  [Log] Creating order from backend 
+2016-06-10 16:29:46,578 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-10 16:29:46,661 INFO  [Log] Handling window 
+2016-06-10 16:29:57,737 INFO  [Log] Opening Auction URL to create order 
+2016-06-10 16:30:02,882 INFO  [Log] Filling orederId and searching created order 
+2016-06-10 16:30:12,710 INFO  [Log] New fram is appeared 
+2016-06-10 16:30:12,803 INFO  [Log] Closing running Auction 
+2016-06-10 16:30:12,808 INFO  [Log] Closing popup after creating order 
+2016-06-10 16:30:16,810 INFO  [Log] Closing Iframe 
+2016-06-10 16:30:19,932 INFO  [Log] Navigating to URL to search customer details  
+2016-06-10 16:30:35,309 INFO  [Log] Order is created 
+2016-06-10 16:30:42,918 INFO  [Log] Going to My order page 
+2016-06-10 16:30:52,767 INFO  [Log] Click on Order created link 
+2016-06-10 16:31:00,849 INFO  [Log] Click on Confirm order button 
+2016-06-10 16:31:03,950 INFO  [Log] Click on Submit order button 
+2016-06-10 16:31:04,012 INFO  [Log] Picking order id for payment 
+2016-06-10 16:31:13,366 INFO  [Log] Picking order Amount 
+2016-06-10 16:31:16,419 INFO  [Log] Click on Submit oder for delivery 
+2016-06-10 16:31:16,579 INFO  [Log] Opening new tab to manual payment 
+2016-06-10 16:31:21,646 INFO  [Log] Navigate to payment URL 
+2016-06-10 16:31:28,372 INFO  [Log] Filling orderId 
+2016-06-10 16:31:28,425 INFO  [Log] Filling Account number to payment 
+2016-06-10 16:31:30,767 INFO  [Log] Click on submit button 
+2016-06-13 10:09:36,442 INFO  [Log] Opening Browser 
+2016-06-13 10:10:08,173 INFO  [Log] Navigating to URL 
+2016-06-13 10:10:13,274 INFO  [Log] Closing Popup displayed on screen 
+2016-06-13 10:10:15,623 INFO  [Log] Click on Register Link to register new User 
+2016-06-13 10:10:21,734 INFO  [Log] Filling all the user details to Register 
+2016-06-13 10:10:24,881 INFO  [Log] Checking Register button status 
+2016-06-13 10:10:26,189 INFO  [Log] Click on Register button and submitting details for Registration  
+2016-06-13 10:11:13,999 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-13 10:11:14,289 INFO  [Log] Filling User credential Login and Password 
+2016-06-13 10:11:19,377 INFO  [Log] Click on Login button 
+2016-06-13 10:11:24,523 INFO  [Log] Home page is appear 
+2016-06-13 10:11:24,580 INFO  [Log] Click on Bidding link 
+2016-06-13 10:11:44,007 INFO  [Log] Creating order from backend 
+2016-06-13 10:11:44,012 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-13 10:11:44,318 INFO  [Log] Handling window 
+2016-06-13 10:11:53,735 INFO  [Log] Opening Auction URL to create order 
+2016-06-13 10:11:58,940 INFO  [Log] Filling orederId and searching created order 
+2016-06-13 10:12:07,302 INFO  [Log] New fram is appeared 
+2016-06-13 10:12:07,379 INFO  [Log] Closing running Auction 
+2016-06-13 10:12:07,384 INFO  [Log] Closing popup after creating order 
+2016-06-13 10:12:11,706 INFO  [Log] Closing Iframe 
+2016-06-13 10:12:14,831 INFO  [Log] Navigating to URL to search customer details  
+2016-06-13 10:12:32,913 INFO  [Log] Order is created 
+2016-06-13 10:12:43,741 INFO  [Log] Going to My order page 
+2016-06-13 10:12:53,435 INFO  [Log] Click on Order created link 
+2016-06-13 10:13:00,221 INFO  [Log] Click on Confirm order button 
+2016-06-13 10:13:03,334 INFO  [Log] Click on Submit order button 
+2016-06-13 10:13:03,375 INFO  [Log] Picking order id for payment 
+2016-06-13 10:13:13,534 INFO  [Log] Picking order Amount 
+2016-06-13 10:13:16,595 INFO  [Log] Click on Submit oder for delivery 
+2016-06-13 10:13:16,757 INFO  [Log] Opening new tab to manual payment 
+2016-06-13 10:13:21,818 INFO  [Log] Navigate to payment URL 
+2016-06-13 10:13:28,037 INFO  [Log] Filling orderId 
+2016-06-13 10:13:28,089 INFO  [Log] Filling Account number to payment 
+2016-06-13 10:13:28,663 INFO  [Log] Click on submit button 
+2016-06-13 10:16:48,433 INFO  [Log] Opening Browser 
+2016-06-13 10:17:27,278 INFO  [Log] Navigating to URL 
+2016-06-13 10:17:32,373 INFO  [Log] Closing Popup displayed on screen 
+2016-06-13 10:17:32,880 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-13 10:17:33,052 INFO  [Log] Filling User credential Login and Password 
+2016-06-13 10:17:38,163 INFO  [Log] Click on Login button 
+2016-06-13 10:17:43,347 INFO  [Log] Home page is appear 
+2016-06-13 10:17:43,404 INFO  [Log] Click on Bidding link 
+2016-06-13 10:18:03,338 INFO  [Log] Creating order from backend 
+2016-06-13 10:18:03,343 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-13 10:18:03,640 INFO  [Log] Handling window 
+2016-06-13 10:18:11,773 INFO  [Log] Opening Auction URL to create order 
+2016-06-13 10:18:16,947 INFO  [Log] Filling orederId and searching created order 
+2016-06-13 10:18:24,500 INFO  [Log] New fram is appeared 
+2016-06-13 10:18:24,599 INFO  [Log] Closing running Auction 
+2016-06-13 10:18:24,605 INFO  [Log] Closing popup after creating order 
+2016-06-13 10:18:28,591 INFO  [Log] Closing Iframe 
+2016-06-13 10:18:31,736 INFO  [Log] Navigating to URL to search customer details  
+2016-06-13 10:18:48,417 INFO  [Log] Order is created 
+2016-06-13 10:18:56,088 INFO  [Log] Going to My order page 
+2016-06-13 10:19:03,753 INFO  [Log] Click on Order created link 
+2016-06-13 10:19:09,448 INFO  [Log] Click on Confirm order button 
+2016-06-13 10:19:12,561 INFO  [Log] Click on Submit order button 
+2016-06-13 10:19:12,609 INFO  [Log] Picking order id for payment 
+2016-06-13 10:19:21,349 INFO  [Log] Picking order Amount 
+2016-06-13 10:19:24,397 INFO  [Log] Click on Submit oder for delivery 
+2016-06-13 10:19:24,581 INFO  [Log] Opening new tab to manual payment 
+2016-06-13 10:19:29,651 INFO  [Log] Navigate to payment URL 
+2016-06-13 10:19:37,710 INFO  [Log] Filling orderId 
+2016-06-13 10:19:37,762 INFO  [Log] Filling Account number to payment 
+2016-06-13 10:19:38,964 INFO  [Log] Click on submit button 
+2016-06-13 11:46:17,706 INFO  [Log] Opening Browser 
+2016-06-13 11:46:49,523 INFO  [Log] Navigating to URL 
+2016-06-13 11:46:54,619 INFO  [Log] Closing Popup displayed on screen 
+2016-06-13 11:46:55,115 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-13 11:46:55,402 INFO  [Log] Filling User credential Login and Password 
+2016-06-13 11:47:00,500 INFO  [Log] Click on Login button 
+2016-06-13 11:47:05,680 INFO  [Log] Home page is appear 
+2016-06-13 11:47:05,739 INFO  [Log] Click on Bidding link 
+2016-06-13 11:49:38,806 INFO  [Log] Opening Browser 
+2016-06-13 11:50:12,964 INFO  [Log] Navigating to URL 
+2016-06-13 11:50:18,053 INFO  [Log] Closing Popup displayed on screen 
+2016-06-13 11:50:18,539 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-13 11:50:18,714 INFO  [Log] Filling User credential Login and Password 
+2016-06-13 11:50:23,833 INFO  [Log] Click on Login button 
+2016-06-13 11:50:29,009 INFO  [Log] Home page is appear 
+2016-06-13 11:50:29,074 INFO  [Log] Click on Bidding link 
+2016-06-13 11:50:48,618 INFO  [Log] Creating order from backend 
+2016-06-13 11:50:48,623 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-13 11:50:48,966 INFO  [Log] Handling window 
+2016-06-13 11:50:57,577 INFO  [Log] Opening Auction URL to create order 
+2016-06-13 11:51:02,751 INFO  [Log] Filling orederId and searching created order 
+2016-06-13 11:51:10,357 INFO  [Log] New fram is appeared 
+2016-06-13 11:51:10,476 INFO  [Log] Closing running Auction 
+2016-06-13 11:51:10,484 INFO  [Log] Closing popup after creating order 
+2016-06-13 11:51:14,801 INFO  [Log] Closing Iframe 
+2016-06-13 11:51:17,930 INFO  [Log] Navigating to URL to search customer details  
+2016-06-13 11:51:33,322 INFO  [Log] Order is created 
+2016-06-13 11:51:40,769 INFO  [Log] Going to My order page 
+2016-06-13 11:51:58,098 INFO  [Log] Click on Order created link 
+2016-06-13 11:52:03,422 INFO  [Log] Click on Confirm order button 
+2016-06-13 11:52:06,477 INFO  [Log] Click on Submit order button 
+2016-06-13 11:52:06,526 INFO  [Log] Picking order id for payment 
+2016-06-13 11:52:16,526 INFO  [Log] Picking order Amount 
+2016-06-13 11:52:19,577 INFO  [Log] Click on Submit oder for delivery 
+2016-06-13 11:52:19,758 INFO  [Log] Opening new tab to manual payment 
+2016-06-13 11:52:24,835 INFO  [Log] Navigate to payment URL 
+2016-06-13 11:52:31,106 INFO  [Log] Filling orderId 
+2016-06-13 11:52:31,164 INFO  [Log] Filling Account number to payment 
+2016-06-13 11:52:31,978 INFO  [Log] Click on submit button 
+2016-06-13 12:03:19,155 INFO  [Log] Opening Browser 
+2016-06-13 12:03:50,899 INFO  [Log] Navigating to URL 
+2016-06-13 12:03:55,994 INFO  [Log] Closing Popup displayed on screen 
+2016-06-13 12:03:56,465 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-13 12:03:56,650 INFO  [Log] Filling User credential Login and Password 
+2016-06-13 12:04:01,748 INFO  [Log] Click on Login button 
+2016-06-13 12:04:06,932 INFO  [Log] Home page is appear 
+2016-06-13 12:04:06,996 INFO  [Log] Click on Bidding link 
+2016-06-13 12:04:25,837 INFO  [Log] Creating order from backend 
+2016-06-13 12:04:25,842 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-13 12:04:25,925 INFO  [Log] Handling window 
+2016-06-13 12:04:35,009 INFO  [Log] Opening Auction URL to create order 
+2016-06-13 12:04:40,169 INFO  [Log] Filling orederId and searching created order 
+2016-06-13 12:04:47,848 INFO  [Log] New fram is appeared 
+2016-06-13 12:04:48,012 INFO  [Log] Closing running Auction 
+2016-06-13 12:04:48,019 INFO  [Log] Closing popup after creating order 
+2016-06-13 12:04:51,983 INFO  [Log] Closing Iframe 
+2016-06-13 12:04:55,121 INFO  [Log] Navigating to URL to search customer details  
+2016-06-13 12:05:09,222 INFO  [Log] Order is created 
+2016-06-13 12:05:16,524 INFO  [Log] Going to My order page 
+2016-06-13 12:05:33,268 INFO  [Log] Click on Order created link 
+2016-06-13 12:05:36,410 INFO  [Log] Click on Confirm order button 
+2016-06-13 12:05:46,696 INFO  [Log] Opening new tab to manual payment 
+2016-06-13 12:06:35,869 INFO  [Log] Opening Browser 
+2016-06-13 12:07:12,193 INFO  [Log] Navigating to URL 
+2016-06-13 12:07:17,292 INFO  [Log] Closing Popup displayed on screen 
+2016-06-13 12:07:17,712 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-13 12:07:17,890 INFO  [Log] Filling User credential Login and Password 
+2016-06-13 12:07:22,990 INFO  [Log] Click on Login button 
+2016-06-13 12:07:28,191 INFO  [Log] Home page is appear 
+2016-06-13 12:07:28,251 INFO  [Log] Click on Bidding link 
+2016-06-13 12:07:37,929 INFO  [Log] Creating order from backend 
+2016-06-13 12:07:37,935 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-13 12:07:38,021 INFO  [Log] Handling window 
+2016-06-13 12:07:43,696 INFO  [Log] Opening Auction URL to create order 
+2016-06-13 12:10:00,712 INFO  [Log] Opening Browser 
+2016-06-13 12:10:45,591 INFO  [Log] Navigating to URL 
+2016-06-13 12:10:50,688 INFO  [Log] Closing Popup displayed on screen 
+2016-06-13 12:10:51,155 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-13 12:10:51,350 INFO  [Log] Filling User credential Login and Password 
+2016-06-13 12:10:56,459 INFO  [Log] Click on Login button 
+2016-06-13 12:11:01,651 INFO  [Log] Home page is appear 
+2016-06-13 12:11:01,735 INFO  [Log] Click on Bidding link 
+2016-06-13 12:11:38,522 INFO  [Log] Home page is appear 
+2016-06-13 12:11:38,572 INFO  [Log] Click on Bidding link 
+2016-06-13 12:11:47,185 INFO  [Log] Creating order from backend 
+2016-06-13 12:11:47,190 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-13 12:11:47,271 INFO  [Log] Handling window 
+2016-06-13 12:11:55,721 INFO  [Log] Opening Auction URL to create order 
+2016-06-13 12:12:00,866 INFO  [Log] Filling orederId and searching created order 
+2016-06-13 12:12:08,600 INFO  [Log] New fram is appeared 
+2016-06-13 12:12:08,695 INFO  [Log] Closing running Auction 
+2016-06-13 12:12:08,709 INFO  [Log] Closing popup after creating order 
+2016-06-13 12:12:12,734 INFO  [Log] Closing Iframe 
+2016-06-13 12:12:15,861 INFO  [Log] Navigating to URL to search customer details  
+2016-06-13 12:12:30,378 INFO  [Log] Order is created 
+2016-06-13 12:12:37,940 INFO  [Log] Going to My order page 
+2016-06-13 12:12:46,335 INFO  [Log] Click on Order created link 
+2016-06-13 12:12:49,489 INFO  [Log] Click on Confirm order button 
+2016-06-13 12:12:59,857 INFO  [Log] Opening new tab to manual payment 
+2016-06-13 12:13:04,926 INFO  [Log] Navigate to payment URL 
+2016-06-13 12:18:27,383 ERROR [DriverScript] execute_TestCase 
+2016-06-13 12:18:41,615 ERROR [DriverScript] execute_TestCase 
+2016-06-13 12:18:45,191 INFO  [Log] Opening Browser 
+2016-06-13 12:19:17,308 INFO  [Log] Navigating to URL 
+2016-06-13 12:19:22,448 INFO  [Log] Closing Popup displayed on screen 
+2016-06-13 12:19:22,946 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-13 12:19:23,127 INFO  [Log] Filling User credential Login and Password 
+2016-06-13 12:19:28,227 INFO  [Log] Click on Login button 
+2016-06-13 12:19:33,414 INFO  [Log] Home page is appear 
+2016-06-13 12:19:33,473 INFO  [Log] Click on Bidding link 
+2016-06-13 12:20:47,924 ERROR [DriverScript] execute_TestCase 
+2016-06-13 12:20:54,440 INFO  [Log] Opening Browser 
+2016-06-13 12:21:29,265 INFO  [Log] Navigating to URL 
+2016-06-13 12:21:34,368 INFO  [Log] Closing Popup displayed on screen 
+2016-06-13 12:21:34,885 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-13 12:21:35,079 INFO  [Log] Filling User credential Login and Password 
+2016-06-13 12:21:40,179 INFO  [Log] Click on Login button 
+2016-06-13 12:21:45,367 INFO  [Log] Home page is appear 
+2016-06-13 12:21:45,388 INFO  [Log] Click on Bidding link 
+2016-06-13 12:55:56,298 INFO  [Log] Opening Browser 
+2016-06-13 12:56:32,568 INFO  [Log] Navigating to URL 
+2016-06-13 12:56:37,651 INFO  [Log] Closing Popup displayed on screen 
+2016-06-13 12:56:38,088 INFO  [Log] Click on Login button and Login Pop up will appear 
+2016-06-13 12:56:38,271 INFO  [Log] Filling User credential Login and Password 
+2016-06-13 12:56:43,370 INFO  [Log] Click on Login button 
+2016-06-13 12:56:48,571 INFO  [Log] Home page is appear 
+2016-06-13 12:56:48,606 INFO  [Log] Click on Bidding link 
+2016-06-13 12:56:57,297 INFO  [Log] Creating order from backend 
+2016-06-13 12:56:57,302 INFO  [Log] Opening new Tab to put backend URL 
+2016-06-13 12:56:57,386 INFO  [Log] Handling window 
+2016-06-13 12:57:02,836 INFO  [Log] Opening Auction URL to create order 
+2016-06-13 12:57:13,352 INFO  [Log] Opening new tab to manual payment 
+2016-06-13 14:40:22,057 INFO  [Log] Opening Browser 
+2016-06-13 14:40:43,987 INFO  [Log] Navigating to URL 
+2016-06-13 14:41:30,401 INFO  [Log] Home page is appear 
+2016-06-13 14:41:34,506 INFO  [Log] Creating order from backend 
+2016-06-13 14:41:40,577 INFO  [Log] Opening new tab to manual payment 
+2016-06-15 17:19:50,475 INFO  [Log] Opening Browser 
+2016-06-15 17:19:54,192 INFO  [Log] Navigating to URL 
+2016-06-15 17:20:24,929 INFO  [Log] Home page is appear 
+2016-06-15 17:21:59,015 INFO  [Log] Opening Browser 
+2016-06-15 17:22:02,758 INFO  [Log] Navigating to URL 
+2016-06-15 17:28:24,443 INFO  [DriverScript] execute_TestCase 
+2016-06-15 17:29:07,709 INFO  [Log] Opening Browser 
+2016-06-15 17:29:11,542 INFO  [Log] Navigating to URL 
+2016-06-15 17:30:51,755 INFO  [Log] Opening Browser 
+2016-06-15 17:30:56,551 INFO  [Log] Navigating to URL 
+2016-06-15 17:34:26,095 INFO  [Log] Opening Browser 
+2016-06-15 17:34:29,636 INFO  [Log] Navigating to URL 
+2016-06-15 17:36:02,136 INFO  [Log] Opening Browser 
+2016-06-15 17:36:06,004 INFO  [Log] Navigating to URL 
+2016-06-15 17:39:03,809 INFO  [Log] Opening Browser 
+2016-06-15 17:39:07,452 INFO  [Log] Navigating to URL 

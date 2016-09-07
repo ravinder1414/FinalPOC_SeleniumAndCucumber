@@ -1,0 +1,42 @@
+Thread.sleep(10000);
+			
+			robot.mouseMove(630, 420); // move mouse point to specific location	
+	        robot.delay(1500);        // delay is to make code wait for mentioned milliseconds before executing next step	
+	        robot.mousePress(InputEvent.BUTTON1_DOWN_MASK); // press left click	
+	        robot.mouseRelease(InputEvent.BUTTON1_DOWN_MASK); // 
+	        
+
+//StringSelection stringSelection2 = new StringSelection(pwd1);
+			//Toolkit.getDefaultToolkit().getSystemClipboard().setContents(stringSelection2, null);
+			//Robot robot = new Robot();
+			//Alert alert12=driver.switchTo().alert();
+			
+			Thread.sleep(10000);
+
+
+	        alert.sendKeys(UserName);
+			robot.keyPress(KeyEvent.VK_TAB); 
+			robot.keyRelease(KeyEvent.VK_TAB);  
+			robot.keyPress(KeyEvent.VK_CONTROL); 
+			robot.keyPress(KeyEvent.VK_V);
+			robot.keyRelease(KeyEvent.VK_V); 
+			robot.keyRelease(KeyEvent.VK_CONTROL);
+			
+			 try {
+				 (new Robot()).keyPress(java.awt.event.KeyEvent.VK_ENTER);
+				  (new Robot()).keyRelease(java.awt.event.KeyEvent.VK_ENTER);
+				  } catch (AWTException e) {
+
+				 e.printStackTrace();
+				
+				
+				}
+			
+			//robot.keyPress(KeyEvent.VK_TAB);
+		    //robot.keyRelease(KeyEvent.VK_TAB);
+			//robot.keyPress(KeyEvent.VK_ENTER);
+		    
+		//alert.accept();
+		Thread.sleep(2000);
+				      //driver.navigate().to(AuctionWeburl);
+

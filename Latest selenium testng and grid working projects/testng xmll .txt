@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Demo_Netthandelen">
+<parameter name="Environment" value="STAGE"/>
+<!--<parameter name="sHub" value="10.78.4.12"/>-->
+
+ <listeners>
+      <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+      <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+    <!--<listener class-name="Reporter" />-->
+  
+<listeners>
+     <!-- <listener class-name="commonfunctions.ScreenShotOnTestFailure" />
+      <listener class-name="srm_Listeners.DisableKnownTestFailures" />-->
+</listeners>
+    <test name="netthandelen_Demo">
+    <parameter name="Browser" value="firefox"/>
+    <classes>   
+ <class name = "netthandelen_Variables.EnvironmentVariables" />
+ <class name = "netthandelen_TestFunctionality.Registration" />
+      </classes>
+    </test>
+</suite>
+
+
+
+
+
+------------Working testng files-------------------------------------------
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Demo_Netthandelen" parallel="classes" thread-count="2">
+<parameter name="Environment" value="STAGE"/>
+ <listeners>
+      <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+      <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    
+      
+  </listeners>
+    <test name="Regression 1">
+        <parameter name="Browser" value="firefox"/>
+        <classes>
+            <class name = "netthandelen_Variables.EnvironmentVariables" />
+           <class name = "netthandelen_TestFunctionality.AddLiveChat_Lead_Creation" />
+        </classes>
+    </test>
+    <test name="Regression 2">
+        <parameter name="Browser" value="chrome"/>
+        <classes>
+            <class name = "netthandelen_Variables.EnvironmentVariables" />
+            <class name = "netthandelen_TestFunctionality.AddLiveChat_Lead_Creation" />
+        </classes>
+    </test>
+ 
+</suite>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------------working files in chrome nd mozila------------
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Demo_Netthandelen" parallel="classes" thread-count="2">
+<parameter name="Environment" value="TEST"/>
+ <listeners>
+      <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+      <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    
+      
+  </listeners>
+    <test name="Test cases Excecute in firefox">
+        <parameter name="Browser" value="ie"/>
+        <classes>
+            <class name = "netthandelen_Variables.EnvironmentVariables" />
+           <class name = "netthandelen_TestFunctionality.Registration" />
+        </classes>
+    </test>
+    <test name="Test cases Execute in chrome">
+    
+        <!--<parameter name="Browser" value="chrome"/>-->
+        <classes>
+            <!--<class name = "netthandelen_Variables.EnvironmentVariables" />
+            <class name = "netthandelen_TestFunctionality.Registration" />-->
+        </classes>
+    </test>
+ 
+</suite>
+
+
+
+-----------WORKING TESTNG XML FOR IE----------------
+
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Demo_Netthandelen">
+<parameter name="Environment" value="TEST"/>
+<!--<parameter name="sHub" value=""/>-->
+<listeners>
+      <!--<listener class-name="commonfunctions.ScreenShotOnTestFailure" />-->
+     <!-- <listener class-name="srm_Listeners.DisableKnownTestFailures" />-->
+</listeners>
+    <test name="Orion3_Navigation_FireFox">
+    <parameter name="Browser" value="chrome"/>
+    <classes>     
+      <class name = "netthandelen_Variables.EnvironmentVariables" />
+     <class name = "netthandelen_TestFunctionality.Registration" />
+     <!--<class name = "netthandelen_TestFunctionality.AddInfoCall_Lead_Creation" />-->
+     
+     </classes> 
+    </test>
+</suite>

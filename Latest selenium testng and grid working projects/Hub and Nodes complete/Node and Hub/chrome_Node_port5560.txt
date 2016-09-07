@@ -1,0 +1,6 @@
+cd C:\JAVA_PROJECTS\Demo\Libs
+java -jar C:\JAVA_PROJECTS\Libs\selenium-server-standalone-2.53.0.jar -role webdriver -port 5560 -Dwebdriver.chrome.driver="C:\JAVA_PROJECTS\Demo\Libs\chromedriver.exe" -browser browserName=chrome,maxInstances=4
+
+
+
+java -Dwebdriver.chrome.driver=C:\automation-tests\chromedriver_win32\chromedriver.exe -Dwebdriver.ie.driver=C:\automation-tests\IEDriverServer.exe -jar selenium-server-standalone-2.44.0.jar -role webdriver -hub http://localhost:4444/grid/register -port 5556 -maxSession 14 -browser browserName=chrome,maxInstances=4 -browser browserName=firefox,maxInstances=4 -browser browserName=iexplore,maxInstances=4

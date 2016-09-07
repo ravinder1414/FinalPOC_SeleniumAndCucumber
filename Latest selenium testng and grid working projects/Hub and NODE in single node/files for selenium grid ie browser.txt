@@ -1,0 +1,4 @@
+cd C:\JAVA_PROJECTS\Demo\Libs
+java -Dwebdriver.ie.driver=C:\JAVA_PROJECTS\Demo\Libs\IEDriverServer.exe -jar C:\JA
+VA_PROJECTS\Demo\Libs\selenium-server-standalone-2.46.0.jar -role webdriver -hub http
+://localhost:4446/grid/register -browser browserName=iexplore,maxInstances=4
